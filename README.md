@@ -1,2 +1,2 @@
 # Synthesis-Project-II
-Project development for the Synthesis Project II subject
+Project development for the Synthesis Project II subject.
