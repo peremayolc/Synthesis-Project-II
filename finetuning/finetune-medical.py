@@ -96,5 +96,8 @@ def finetuning_medical() -> None:
     )
 
     print(f"model successfully pushed to {REPO}")
-    
+
     return None
+
+
+finetuning_medical()
