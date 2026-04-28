@@ -1,13 +1,21 @@
 from imports import *
 from config import TOKEN, REPO
 from medical import medical
+from legal import legal
+from automotive import automotive
 
 
 # general finetuning loop
-def finetuning(field : str = "medical", output_dir: str = "llama-medical-lora-es") -> None:
+def finetuning(field_name : str = "medical", output_dir: str = None) -> None:
     
-    # this loads the appropiate dataset, model and tokenizer depending on the needed field.
-    train_dataset, model, tokenizer = field()
+    field_functions = {
+        "medical": medical,
+        "legal": legal,
+        "automotive": automotive
+    }
+    
+    field_function = field_functions[field_name]
+    train_dataset, model, tokenizer = field_function()
 
     data_collator = DataCollatorForLanguageModeling(
         tokenizer=tokenizer,
@@ -39,16 +47,13 @@ def finetuning(field : str = "medical", output_dir: str = "llama-medical-lora-es
         max_seq_length=2048,
     )
 
-    print("Starting Llama Medical Fine-Tuning with LORA...")
+    print(f"Starting Llama {field_name.title()} Fine-Tuning with LORA...")
     trainer.train()
-
-    model.save_pretrained(output_dir)
-    tokenizer.save_pretrained(output_dir)
     
     model.push_to_hub(REPO, token=TOKEN)
     tokenizer.push_to_hub(REPO, token=TOKEN)
 
-    print(f"LORA model successfully pushed to {REPO}")
+    print(f"LORA {field_name} model successfully pushed to {REPO}")
 
 
 
