@@ -1,5 +1,6 @@
 from imports import *
 from config import TOKEN, REPO
+import sys
 from medical import medical
 from legal import legal
 from automotive import automotive
@@ -58,4 +59,7 @@ def finetuning(field_name : str = "medical", output_dir: str = None) -> None:
 
 
 if __name__ == "__main__":
-    finetuning()
+    
+    dominio = sys.argv[1] 
+
+    finetuning(field_name=dominio)
