@@ -1,0 +1,43 @@
+{
+  "total_checked_translations": 614,
+  "by_variant": {
+    "BASE": {
+      "total": 307,
+      "human_review": 180,
+      "accepted": 105,
+      "auto_corrected_or_warned": 22
+    },
+    "FT": {
+      "total": 307,
+      "human_review": 202,
+      "accepted": 81,
+      "auto_corrected_or_warned": 24
+    }
+  },
+  "by_document": {
+    "unitron_moxi_v_312": {
+      "total": 212,
+      "human_review": 115
+    },
+    "unitron_remote_plus": {
+      "total": 52,
+      "human_review": 36
+    },
+    "unitron_truefit_5_6": {
+      "total": 350,
+      "human_review": 231
+    }
+  },
+  "issue_counts": {
+    "terminology_expected": 645,
+    "terminology_forbidden": 589,
+    "reference_divergence": 58,
+    "untranslated_english": 47,
+    "negation_missing": 28,
+    "protected_term_missing": 25,
+    "number_mismatch": 12,
+    "possible_hallucination_or_repetition": 7,
+    "repetition_loop": 6,
+    "possible_omission": 4
+  }
+}

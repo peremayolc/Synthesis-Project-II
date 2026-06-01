@@ -1,0 +1,1065 @@
+====================================================================
+  Document  : Unitron TrueFit 5.6
+  Checkpoint: /hhome/ps2g02/model_output_medical_v2/checkpoint-5938
+  Domain    : medical
+  Base model: unsloth/meta-llama-3.1-8b-instruct-unsloth-bnb-4bit
+  Pairs     : 175
+====================================================================
+
+[1]
+  EN   : The icon functionality is as follows: Print Save Undo Redo Update Quick View Pane Located in the top right corner, the Quick View Pane displays information about the status of the hearing instrument fitting.
+  REF  : UU.) Contáctenos Acerca DSL v5 Acerca de Unitron TrueFit Barra de herramientas La barra de herramientas se encuentra en la esquina superior derecha de la aplicación.
+  BASE : La funcionalidad de la iconografía es la siguiente: Imprimir Guardar Desechar Redo Actualizar Vista rápida de la ventana Ubicada en la esquina superior derecha, la Vista rápida de la ventana muestra información sobre el estado de la ajustación del instrumento auditivo.
+  FT   : La funcionalidad de la icon es la siguiente: Print Save Undo Redo Update Quick View Pane Located en el rincón superior derecho, el instrumento de visión rápida Pane muestra información sobre el estado del instrumento.
+
+[2]
+  EN   : Once you have signed in, your username will be displayed.
+  REF  : Una vez que haya iniciado sesión, aparecerá su nombre de usuario.
+  BASE : Una vez que hayas firmado, tu nombre de usuario se mostrará.
+  FT   : Una vez firmado, su nombre de usuario será mostrado.
+
+[3]
+  EN   : Click it to sign out (your username will be remembered).
+  REF  : Haga clic sobre este para cerrar sesión (se recordará su nombre de usuario).
+  BASE : Haga clic para salir (su nombre de usuario será recordado).
+  FT   : Click it to sign out (your username will be remembered).
+
+[4]
+  EN   : Recalculate Click the Recalculate button in the upper right of the screen to see all the pending changes and the recalculation options.
+  REF  : Recalcular Haga clic en el botón Recalcular situado en la parte superior derecha de la pantalla para visualizar todos los cambios pendientes y las opciones para recalcular.
+  BASE : Recalcula Haga clic en el botón Recalcula en la parte superior derecha de la pantalla para ver todas las modificaciones pendientes y las opciones de recálculo.
+  FT   : Recalcula el botón de Click en el lado derecho superior de la pantalla para ver todos los cambios pendientes y las opciones de recálculo.
+
+[5]
+  EN   : It will recalculate the fitting based on data, such as the current audiogram, fitting formula, and hearing instrument acoustics.
+  REF  : Se recalculará la adaptación basándose en los datos, como el audiograma actual, la fórmula de adaptación y la acústica de los audífonos.
+  BASE : Recalculará la adaptación basada en datos, como el audiograma actual, la fórmula de adaptación y la acústica del instrumento auditivo.
+  FT   : Se recalculará el ajuste basado en datos, como el audiograma actual, la fórmula de ajuste y la acústica del instrumento auditivo.
+
+[6]
+  EN   : The default recalculation options vary depending on the pending changes.
+  REF  : Las opciones predeterminadas para recalcular varían en función de los cambios pendientes.
+  BASE : Las opciones de recálculo por defecto varían dependiendo de los cambios pendientes.
+  FT   : Las opciones de recálculo por defecto varían dependiendo de los cambios pendientes.
+
+[7]
+  EN   : The Recalculate button will be highlighted when a recalculation is recommended during fitting.
+  REF  : El botón Recalcular se resaltará cuando se recomiende realizar un recálculo durante la adaptación.
+  BASE : El botón Recalculate se destacará cuando se recomiende una recálculo durante la ajuste.
+  FT   : El botón Recalculate se destacará cuando se recomienda una recálculo durante el ajuste.
+
+[8]
+  EN   : Mute / Unmute Indicates the current state of the hearing instrument(s): muted or unmuted.
+  REF  : Silenciar/activar sonido Indica el estado actual de los audífonos: silencio activado o Silencio desactivado.
+  BASE : Mudo / Desmudo Indica el estado actual del instrumento de audición: mudo o desmudo.
+  FT   : Mute / Unmute Indica el estado actual del instrumento auditivo: mudo o no mudo.
+
+[9]
+  EN   : Mute / Unmute can be selected individually for each device or binaurally by clicking the center of the button.
+  REF  : La opción Silenciar/activar sonido se puede seleccionar de manera individual en cada dispositivo o bien de manera binaural haciendo clic en el centro del botón.
+  BASE : Mute / Unmute se puede seleccionar individualmente para cada dispositivo o binauralmente al hacer clic en el centro del botón.
+  FT   : Mute / Unmute puede ser seleccionado individualmente para cada dispositivo o binauralmente al hacer clic en el centro del botón.
+
+[10]
+  EN   : The center of the button also displays the currently active environment for the hearing instrument(s).
+  REF  : El centro del botón también muestra el entorno activo en ese momento para los audífonos.
+  BASE : El centro del botón también muestra el entorno actualmente activo para el instrumento de audición (s).
+  FT   : El centro del botón también muestra el ambiente actualmente activo para el instrumento de audición.
+
+[11]
+  EN   : Fitting Mode The fitting mode can be changed by clicking on the button and selecting the desired setting from the dropdown box.
+  REF  : Modo de adaptación El modo de adaptación se puede cambiar haciendo clic en el botón y seleccionando el ajuste deseado en el cuadro desplegable.
+  BASE : Modo de ajuste El modo de ajuste se puede cambiar haciendo clic en el botón y seleccionando la configuración deseada desde el cuadro desplegable.
+  FT   : Modo de ajuste El modo de ajuste puede ser cambiado al hacer clic en el botón y seleccionar el entorno deseado de la caja de descenso.
+
+[12]
+  EN   : When client information is entered and the age is 18 years or less, the fitting software will automatically prompt you to select the appropriate fitting mode option via a pop-up window.
+  REF  : Cuando se introduce la información del paciente y tiene 18 años o menos, el software de adaptación le solicitará automáticamente seleccionar la opción adecuada del modo de adaptación mediante una ventana emergente.
+  BASE : Cuando se ingresa la información del cliente y la edad es de 18 años o menos, el software de ajuste lo hará automáticamente que seleccione la opción de ajuste adecuada mediante una ventana emergente.
+  FT   : Cuando se ingresa la información del cliente y la edad es de 18 años o menos, el software de ajuste te alertará automáticamente para seleccionar la opción de ajuste adecuada a través de una ventana de pop-up.
+
+[13]
+  EN   : Fitting mode defaults can be edited under Options > Preferences > Fitting Session > Pediatric Modes.
+  REF  : Las opciones predeterminadas del modo de adaptación se pueden editar en Opciones > Preferencias > Sesión de adaptación > Modos pediátricos.
+  BASE : Los modos de ajuste predeterminados pueden editarse en Opciones > Preferencias > Sesión de ajuste > Modos pediátricos.
+  FT   : Los defectos de la modalidad de ajuste pueden ser editados bajo las opciones > Preferencias > Sesión de Ajuste > Modos Pediatría.
+
+[14]
+  EN   : Preparing the Hearing Instruments Noahlink Wireless™ Switch the hearing instrument(s) on by inserting batteries and closing the battery doors or, if the hearing instrument(s) are rechargeable, press and hold the lower part of the button on each of the hearing instrument(s) for 3 seconds until the indicator light changes to solid green.
+  REF  : Dispositivos de Adaptación Noahlink Wireless™ Encienda los audífonos introduciendo pilas y cerrando las tapas de las mismas, o bien, si los audífonos son recargables, mantenga pulsada la parte inferior del botón en cada uno de los audífonos durante 3 segundos hasta que el indicador luminoso cambie a verde fijo.
+  BASE : Preparar los instrumentos auditivos Noahlink Wireless™ Enciende los instrumentos auditivos insertando baterías y cerrando las puertas de las baterías o, si los instrumentos auditivos son recargables, presiona y mantén la parte inferior del botón en cada uno de los instrumentos auditivos durante 3 segundos hasta que la luz indicadora cambie a verde sólido.
+  FT   : Preparar los instrumentos de audición Noahlink Wireless Switch los instrumentos de audición insertando baterías y cerrando las puertas de la batería o, si los instrumentos de audición son reutilizables, presión y luz.
+
+[15]
+  EN   : If connecting to hearing instrument(s) that are not saved in the current session, the hearing instrument(s) must be in pairing mode.
+  REF  : Esta acción también pondrá las unidades en modo de emparejamiento, el cual dura 3 minutos.
+  BASE : Si se conecta a instrumentos de audición que no se han guardado en la sesión actual, los instrumentos de audición deben estar en modo de emparejamiento.
+  FT   : Si se conecta a instrumentos de audición que no se conservan en la sesión actual, los instrumentos de audición deben estar en modo de emparejamiento.
+
+[16]
+  EN   : If connecting to hearing instrument(s) that are already saved in the current session, the hearing instrument(s) do not need to be in pairing mode.
+  REF  : NOAHlink™/HI-PRO® BTE/RIC: abra la tapa de las pilas e introduzca el cable de programación en el puerto de programación.
+  BASE : Si se conecta a instrumentos de audición que ya se han guardado en la sesión actual, los instrumentos de audición no necesitan estar en modo de emparejamiento.
+  FT   : Si se conecta a instrumentos de audición que ya están salvados en la sesión actual, los instrumentos de audición no necesitan estar en modo de emparejamiento.
+
+[17]
+  EN   : ITE: Remove the battery door and insert the programming cable.
+  REF  : Conecte el otro extremo del cable al dispositivo NOAHlink o HI-PRO.
+  BASE : ITE: Retire la puerta de la batería y inserte el cable de programación.
+  FT   : ITE: Retirar la puerta de la batería e insertar el cable de programación.
+
+[18]
+  EN   : Select Options > iCube Configuration and follow the on-screen instructions.
+  REF  : iCube II Si utiliza iCube II por primera vez, deberá configurar el dispositivo de adaptación.
+  BASE : Selecciona Opciones > Configuración de iCube y sigue las instrucciones en pantalla.
+  FT   : Seleccionar opciones > iCube Configuration y seguir las instrucciones en pantalla.
+
+[19]
+  EN   : Insert batteries into the hearing instrument(s) and close the battery door.
+  REF  : Seleccione Opciones > Configuración de iCube y siga las instrucciones que aparecen en pantalla.
+  BASE : Insertar baterías en el instrumento auditivo (s) y cerrar la puerta de la batería.
+  FT   : Insertar baterías en el instrumento de audición y cerrar la puerta de la batería.
+
+[20]
+  EN   : Either place the hearing instrument(s) inside the iCube II neck loop on a desk or place the iCube II around your client’s neck and place the hearing instrument(s) on your client’s ears.
+  REF  : Coloque los audífonos dentro del collar inductivo del dispositivo iCube II en una mesa, o bien coloque el dispositivo iCube II alrededor del cuello de los pacientes y los audífonos en los oídos de los pacientes.
+  BASE : Coloque el instrumento de audición en el interior del bucle de cuello iCube II en una mesa o coloque el iCube II alrededor del cuello de su cliente y coloque el instrumento de audición en las orejas de su cliente.
+  FT   : Tanto el instrumento de audición como el instrumento de audición se colocan dentro del bucle de cuello iCube II en una mesa o se colocan el iCube II alrededor del cuello del cliente y se colocan los instrumentos de audición en las orejas del cliente.
+
+[21]
+  EN   : Client Menu Information This screen shows the Client Summary, Session Summary and Accessories.
+  REF  : Menú del paciente Información En esta pantalla se muestra el Resumen del paciente, el Resumen de la sesión y los Accesorios.
+  BASE : Información del menú del cliente Esta pantalla muestra la Síntesis del cliente, Síntesis de la sesión y Accesorios.
+  FT   : Información del cliente Menu Este escenario muestra el resumen del cliente, el resumen de la sesión y los accesorios.
+
+[22]
+  EN   : Audiogram Click on the graph to add thresholds to the audiogram, or right click for additional options.
+  REF  : Audiograma Haga clic sobre el gráfico para añadir umbrales al audiograma o bien haga clic con el botón derecho del ratón para ver otras opciones.
+  BASE : Audiograma Haga clic en el gráfico para agregar umbrales al audiograma, o haga clic derecho para opciones adicionales.
+  FT   : El audiograma Click en el gráfico para agregar umbrales al audiograma o click derecho para opciones adicionales.
+
+[23]
+  EN   : The transducer for audiometry can be selected from the dropdown menu.
+  REF  : El transductor de audiometría se puede seleccionar en el menú desplegable.
+  BASE : El transductor para audiometría puede seleccionarse desde el menú desplegable.
+  FT   : El transductor para audiometría puede ser seleccionado del menú de descenso.
+
+[24]
+  EN   : Additionally, measured Tinnitus Match information can be entered at the bottom of the Audiogram screen.
+  REF  : Adicionalmente, la información de la correspondencia de tinnitus medida se puede introducir en la parte inferior de la pantalla Audiograma.
+  BASE : Además, la información de Tinnitus Match medida se puede ingresar en la parte inferior de la pantalla de Audiograma.
+  FT   : Además, la información de Tinnitus Match medida puede ser ingresada en la pantalla del Audiograma.
+
+[25]
+  EN   : RECD This screen provides the option to enter real-ear-to-coupler difference (RECD) values or import them if they already exist.
+  REF  : RECD En esta pantalla se proporciona la opción para introducir los valores de diferencia real del acoplador al oído (RECD) o importarlos si ya existen.
+  BASE : RECD Esta pantalla proporciona la opción de ingresar valores de diferencia real-ear-to-coupler (RECD) o importarlos si ya existen.
+  FT   : RECD Esta pantalla ofrece la opción de ingresar los valores de diferencia real-ear-to-coupler (RECD) o importarlos si ya existen.
+
+[26]
+  EN   : If RECD values have not been measured, age-appropriate average values generated by the selected fitting formula will be used.
+  REF  : Si no se han medido los valores de RECD, se utilizarán los valores promedio adecuados a la edad que se han generado con la fórmula de adaptación seleccionada.
+  BASE : Si no se han medido los valores de RECD, se utilizarán los valores promedio correspondientes a la edad generados por la fórmula de ajuste seleccionada.
+  FT   : Si los valores de RECD no han sido medidos, se utilizarán los valores promedio adecuados para la edad generados por la fórmula de ajuste seleccionada.
+
+[27]
+  EN   : Click the Enter RECD button to enter RECD values.
+  REF  : Haga clic en el botón Introducir RECD para introducir los valores de RECD.
+  BASE : Haga clic en el botón RECD Enter para ingresar valores RECD.
+  FT   : Click el botón Enter RECD para ingresar los valores de RECD.
+
+[28]
+  EN   : REUG This screen provides the option to enter real-ear unaided gain (REUG) values or import them if they already exist.
+  REF  : REUG En esta pantalla se proporciona la opción para introducir los valores de ganancia en oído real sin asistencia (REUG) o importarlos si ya existen.
+  BASE : REUG Esta pantalla proporciona la opción de ingresar valores de ganancia real-ear sin ayuda (REUG) o importarlos si ya existen.
+  FT   : REUG Esta pantalla ofrece la opción de ingresar valores de ganancia real-ear no asistida (REUG) o importarlos si ya existen.
+
+[29]
+  EN   : If REUG values have not been measured, age-appropriate average values generated by the selected fitting formula will be used.
+  REF  : Si no se han medido los valores de REUG, se utilizarán los valores promedio adecuados a la edad que se han generado con la fórmula de adaptación seleccionada.
+  BASE : Si no se han medido los valores de REUG, se utilizarán los valores promedio correspondientes a la edad generados por la fórmula de ajuste seleccionada.
+  FT   : Si los valores de REUG no han sido medidos, se utilizarán los valores promedio adecuados para la edad generados por la fórmula de ajuste seleccionada.
+
+[30]
+  EN   : To complete the REUG screen, enter the data for the appropriate ear by clicking on the graph.
+  REF  : Para completar la pantalla REUG, introduzca los datos del oído correspondiente haciendo clic sobre el gráfico.
+  BASE : Para completar la pantalla REUG, ingrese los datos para la oreja adecuada haciendo clic en el gráfico.
+  FT   : Para completar la pantalla REUG, se ingresan los datos para el oído adecuado al hacer clic en el gráfico.
+
+[31]
+  EN   : Right clicking on the graph also provides the option to edit points.
+  REF  : También puede hacer clic con el botón derecho del ratón sobre el gráfico para tener la opción de editar puntos.
+  BASE : Hacer clic derecho en el gráfico también proporciona la opción de editar puntos.
+  FT   : El clic derecho en el gráfico también proporciona la opción de editar puntos.
+
+[32]
+  EN   : Select Use Entered to use the REUG data entered in the graph for fitting formula targets or Use Average to use age appropriate average REUG values.
+  REF  : Seleccione Utilizar introducidos para utilizar los datos de REUG introducidos en el 5 gráfico para los objetivos de la fórmula de adaptación o bien Utilizar promedio para usar los valores promedio de REUG adecuados a la edad.
+  BASE : Seleccione Use Entered para usar los datos REUG ingresados en el gráfico para ajustar los objetivos de la fórmula o Use Average para usar los valores promedio de REUG apropiados para la edad.
+  FT   : Seleccionar el uso de Entrada para utilizar los datos de REUG ingresados en el gráfico para ajustar los objetivos de la fórmula o el uso promedio de los valores de REUG adecuados para la edad.
+
+[33]
+  EN   : Instruments Menu Selection The Selection screen provides the option to detect or simulate hearing instrument(s).
+  REF  : Menú de Audífonos Selección En la pantalla Selección se proporciona la opción para detectar o simular los audífonos.
+  BASE : Menú de instrumentos Selección La pantalla de selección proporciona la opción de detectar o simular instrumentos de audición.
+  FT   : Instrumentos Menu Selection La pantalla de selección proporciona la opción de detectar o simular instrumentos auditivos.
+
+[34]
+  EN   : Choose the desired programming interface from the drop-down menu.
+  REF  : Elija la interfaz de programación deseada en el menú desplegable.
+  BASE : Elija la interfaz de programación deseada desde el menú desplegable.
+  FT   : Elige la interfaz de programación deseada del menú de descenso.
+
+[35]
+  EN   : Click the Detect button to perform a detection.
+  REF  : Haga clic en el botón Detectar para realizar una detección.
+  BASE : Haga clic en el botón Detectar para realizar una detección.
+  FT   : Click el botón Detect para realizar una detección.
+
+[36]
+  EN   : Ensure the hearing instrument(s) are prepared for detection according to the ‘Preparing the hearing instruments section’ of this guide.
+  REF  : Asegúrese de que los audífonos estén preparados para la detección conforme la sección “Preparación de los audífonos” de esta guía.
+  BASE : Asegúrese de que los instrumentos de audición estén preparados para la detección según la sección ‘Preparando los instrumentos de audición’ de esta guía.
+  FT   : Asegurar que el instrumento de audición esté preparado para la detección según la sección ‘Preparación de los instrumentos de audición’ de esta guía.
+
+[37]
+  EN   : In cases where the data in the hearing instrument differs from that stored in the fitting software, follow the prompts to select which fitting you would like to use.
+  REF  : En casos donde los datos de los audífonos sean distintos a los que están almacenados en el software de adaptación, siga las indicaciones para seleccionar la adaptación que le gustaría utilizar.
+  BASE : En los casos en los que los datos en el instrumento de audición difieren de los almacenados en el software de ajuste, siga las instrucciones para seleccionar qué ajuste utilizar.
+  FT   : En los casos en que los datos del instrumento de audición difieren de los almacenados en el software de ajuste, siguen las pautas para seleccionar el ajuste que desean utilizar.
+
+[38]
+  EN   : If you want to make a change, clicking Apply will launch the Change Technology Level workflow.
+  REF  : Confirmar el nivel de tecnología (solo dispositivos FLEX:TRIAL): visualice las diferencias en las funciones entre los niveles de tecnología actuales y otros disponibles.
+  BASE : Si deseas hacer un cambio, hacer clic en Aplicar lanzará el flujo de trabajo de Nivel de tecnología de cambio.
+  FT   : Si deseas hacer un cambio, el clic Apply lanzará el flujo de trabajo de la tecnología de cambio.
+
+[39]
+  EN   : If you need to change the date of birth or the audiogram information, select Cancel to make those changes.
+  REF  : Confirmar la información del paciente: revise la fecha de nacimiento del paciente, el audiograma y la experiencia con los audífonos, es decir, Primera vez o Largo plazo.
+  BASE : Si necesita cambiar la fecha de nacimiento o la información del audiograma, seleccione Cancelar para hacer esos cambios.
+  FT   : Si necesita cambiar la fecha de nacimiento o la información del audiograma, seleccione Cancel para hacer esos cambios.
+
+[40]
+  EN   : This will disconnect the hearing instrument(s) and following a subsequent Detect, the First Fit workflow will be launched again.
+  REF  : Si necesita modificar la fecha de nacimiento o la información del audiograma, seleccione Cancelar para realizar estas modificaciones.
+  BASE : Esto desconectará el instrumento de audición y, después de un Detect posterior, el flujo de trabajo First Fit se lanzará de nuevo.
+  FT   : Esto desconectará el instrumento de audición y, tras un posterior Detect, se lanzará de nuevo el flujo de trabajo First Fit.
+
+[41]
+  EN   : Confirm device acoustics: Confirm the device acoustic settings with the option to change values, if necessary.
+  REF  : Esta acción desconectará los audífonos y tras una Detección posterior, se volverá a ejecutar el flujo de trabajo Adaptación Inicial.
+  BASE : Confirmar acústica del dispositivo: Confirmar las configuraciones acústicas del dispositivo con la opción de cambiar los valores, si es necesario.
+  FT   : Confirmar el dispositivo acústico: Confirmar los ajustes acústicos del dispositivo con la opción de cambiar los valores, si es necesario.
+
+[42]
+  EN   : Confirm First Fit: First Fit has been calculated and the hearing instrument(s) will automatically be unmuted (the option exists to manually mute again).
+  REF  : Confirmar la acústica del dispositivo: confirme los ajustes de acústica del dispositivo con la opción para modificar valores, si corresponde.
+  BASE : Confirmar Primero Ajuste: Primero Ajuste ha sido calculado y los instrumentos auditivos (s) se desactivarán automáticamente (existe la opción de silenciar manualmente de nuevo).
+  FT   : Confirm First Fit: First Fit ha sido calculado y el instrumento de audición (s) será automáticamente inmune (existe la opción de volver a mutar manualmente).
+
+[43]
+  EN   : You have the option to select the Fitting Formula, adjust the Adaptation Manager and launch the Feedback Optimization workflow.
+  REF  : Confirmar la Adaptación Inicial: se ha calculado la primera adaptación y se desactivará el silencio de los audífonos de forma automática (existe la opción manual para volver a activar el silencio).
+  BASE : Tienes la opción de seleccionar la Fórmula de Ajuste, ajustar el Adaptador de Adaptación y lanzar el flujo de trabajo de Optimización de Retroalimentación.
+  FT   : Tienes la opción de seleccionar la Fitting Formula, ajustar el Adaptación Manager y lanzar el flujo de trabajo de Optimización de Feedback.
+
+[44]
+  EN   : First Fit complete: Provides quick links to the most common follow-on actions within the fitting software.
+  REF  : Tiene la opción de seleccionar la Fórmula de adaptación, ajustar el Gestor de adaptación y ejecutar el flujo de trabajo Optimización de la realimentación.
+  BASE : Primero Fit completo: Proporciona enlaces rápidos a las acciones de seguimiento más comunes dentro del software de ajuste.
+  FT   : Primero Fit completo: Proporciona vínculos rápidos a las acciones de seguimiento más comunes dentro del software de ajuste.
+
+[45]
+  EN   : Technology Change This screen provides access to FLEX™ functionality.
+  REF  : Adaptación Inicial completa: proporciona enlaces rápidos a las acciones de seguimiento más habituales en el software de adaptación.
+  BASE : Cambio de tecnología Esta pantalla proporciona acceso a la funcionalidad de FLEX™.
+  FT   : Tecnología de cambio Esta pantalla proporciona acceso a la funcionalidad de FLEX™.
+
+[46]
+  EN   : Clicking on one of the technology level buttons will launch the Change Technology Level workflow.
+  REF  : Si hace clic en uno de los botones de nivel de tecnología, se ejecutará el flujo de trabajo Modificar nivel de tecnología.
+  BASE : Hacer clic en uno de los botones de nivel de tecnología lanzará el flujo de trabajo de Cambiar Nivel de Tecnología.
+  FT   : Clicking en uno de los botones de nivel tecnológico lanzará el flujo de trabajo de nivel tecnológico.
+
+[47]
+  EN   : Follow the on-screen instructions to change the technology level of the connected hearing instrument(s).
+  REF  : Siga las instrucciones en pantalla para modificar el nivel de tecnología de los audífonos conectados.
+  BASE : Siga las instrucciones en pantalla para cambiar el nivel de tecnología de los instrumentos auditivos conectados.
+  FT   : Sigue las instrucciones en pantalla para cambiar el nivel tecnológico del instrumento de audición conectado.
+
+[48]
+  EN   : The workflow will provide the following options:  Transfer fitting: Transfers the program structure, frequency response, acoustics, Automatic Adaptation Manager status and accessories in the current client session to the hearing instrument(s).
+  REF  : El flujo de trabajo proporcionará las opciones indicadas a continuación:  Transferir adaptación: transfiere a los audífonos la estructura del programa, la respuesta de frecuencia, la acústica, el estado del Gestor de Adaptación Automática y los accesorios en la sesión actual del paciente.
+  BASE : El flujo de trabajo proporcionará las siguientes opciones:   Transferencia de ajuste: Transfiere la estructura del programa, la respuesta de frecuencia, la acústica, el estado del Administrador de Adaptación Automática y los accesorios en la sesión del cliente actual a los instrumentos auditivos (s).
+  FT   : El flujo de trabajo proporcionará las siguientes opciones:  Ajuste de transferencia: Transfiere la estructura del programa, respuesta de frecuencia, acústica, estado de adaptación automática y accesorios en la sesión actual del cliente al instrumento de audición.
+
+[49]
+  EN   :  Create new fitting: Resets the hearing instrument(s) to the recommended defaults.
+  REF  :  Crear nueva adaptación: restablece los audífonos a los ajustes predeterminados recomendados.
+  BASE :  Crear nueva ajuste: Resetea los instrumentos de audición a los valores predeterminados recomendados.
+  FT   :  Crear nuevos ajustes: Resetea el instrumento de audición a los defectos recomendados.
+
+[50]
+  EN   : Select your desired option and continue through the steps in the workflow.
+  REF  : Seleccione la opción deseada y continúe con los pasos en el flujo de trabajo.
+  BASE : Seleccione su opción deseada y continúe con los pasos en el flujo de trabajo.
+  FT   : Selecciona tu opción deseada y continúa a través de los pasos del flujo de trabajo.
+
+[51]
+  EN   : The data logging in the hearing instrument(s) will be lost during this process.
+  REF  : Se perderá el registro de datos en los audífonos durante este proceso.
+  BASE : Los datos de registro en el instrumento de audición (instrumentos) se perderán durante este proceso.
+  FT   : La información registrada en el instrumento de audición se perderá durante este proceso.
+
+[52]
+  EN   : Acoustics Configure items such as: coupling, venting, earhook, tubing, ear piece, and receiver type.
+  REF  : Acústica Configure los elementos como los que se indican a continuación: acoplamiento, ventilación, codo, tubo, auricular y tipo de receptor.
+  BASE : Acústica Configura elementos como: acoplamiento, ventilación, oreja, tubería, pieza de oreja, y tipo de receptor.
+  FT   : Los ítems acústicos Configurar son: acoplamiento, ventilación, oreja, tubo, pie de oreja y tipo receptor.
+
+[53]
+  EN   : Press the Check button to manually check that the fitted receiver is the one you have selected in the fitting software.
+  REF  : Pulse el botón Comprobar para comprobar manualmente que el auricular adaptado es el que se ha seleccionado en el software de adaptación.
+  BASE : Presione el botón de Verificar para verificar manualmente que el receptor ajustado es el que ha seleccionado en el software de ajuste.
+  FT   : Presiona el botón de Check para verificar manualmente que el receptor ajustado es el seleccionado en el software de ajuste.
+
+[54]
+  EN   : Custom hearing instrument(s) For custom hearing instruments, you can configure the vent.
+  REF  : Audífonos personalizados En los audífonos personalizados, puede configurar la ventilación.
+  BASE : Instrumentos de audición personalizados Para los instrumentos de audición personalizados, puede configurar la ventilación.
+  FT   : Instrumento de audición personalizado(s) Para instrumentos de audición personalizados, se puede configurar la vent.
+
+[55]
+  EN   : If you have ordered the custom products with IntelliVent, the fitting software will automatically read the code and use the optimal venting.
+  REF  : Si ha realizado el pedido de los productos a medida con IntelliVent, el software de adaptación leerá automáticamente el código y utilizará la ventilación óptima.
+  BASE : Si ha ordenado los productos personalizados con IntelliVent, el software de ajuste leerá automáticamente el código y utilizará la ventilación óptima.
+  FT   : Si ha ordenado los productos de la costumbre con IntelliVent, el software de ajuste leerá automáticamente el código y utilizará el ventilación óptima.
+
+[56]
+  EN   : With simulated fittings, you can select the shell and receiver type.
+  REF  : Con adaptaciones simuladas, puede seleccionar la carcasa y el tipo de auricular.
+  BASE : Con las simulaciones de ajustes, puede seleccionar el tipo de concha y receptor.
+  FT   : Con los ajustes simulados, se puede seleccionar el tipo de concha y receptor.
+
+[57]
+  EN   : Accessories This screen displays accessories which are compatible with the fitted hearing instrument(s).
+  REF  : Accesorios En esta pantalla se muestran los accesorios que son compatibles con los audífonos adaptados.
+  BASE : Accesorios Esta pantalla muestra accesorios que son compatibles con el instrumento auditivo ajustado (s).
+  FT   : Accesorios Esta pantalla muestra accesorios compatibles con el instrumento de audición ajustado.
+
+[58]
+  EN   : Select the accessory and click on the include in fitting button to include the accessory in the fitting.
+  REF  : Seleccione el accesorio y haga clic en el botón Incluir en la adaptación para incluir el accesorio en la adaptación.
+  BASE : Seleccione el accesorio y haga clic en el botón incluir en ajuste para incluir el accesorio en el ajuste.
+  FT   : Seleccionar el accesorio y el click en el incluye en el botón de ajuste para incluir el accesorio en el ajuste.
+
+[59]
+  EN   : Pre-Fitting Super / Ultra Power pre- Classic: little to no signal processing and no directionality.
+  REF  : Súper/Ultrapotencia Convencional: procesamiento moderado de señal y poca direccionalidad.
+  BASE : Pre-ajuste Super / Ultra Power pre- Clásico: poco a ningún procesamiento de señal y sin direccionalidad.
+  FT   : Pre-Fitting Super / Ultra Power pre- Classic: poco a ninguna señal de procesamiento y no dirección.
+
+[60]
+  EN   : sets (if applicable) Conventional: moderate signal processing and some directionality.
+  REF  : (si corresponde) Actual: procesamiento avanzado de señal y direccionalidad.
+  BASE : sets (si corresponde) Convenional: procesamiento de señal moderado y algunas direcciones.
+  FT   : sets (si se aplica) Conventional: procesamiento de señales moderadas y algunas direcciones.
+
+[61]
+  EN   : Fitting Formula Select your desired fitting formula: DSL v5 Adult, DSL v5 Pediatric, NAL- NL1, NAL-NL2, and NAL-NL2 Tonal Language.
+  REF  : Fórmula de adaptación Seleccione la fórmula de adaptación deseada: DSL v5 Adulto, DSL v5 Pediátrico, NAL-NL1, NAL-NL2 y NAL-NL2 Lenguaje Tonal.
+  BASE : Fórmula de ajuste Seleccione la fórmula de ajuste deseada: DSL v5 Adulto, DSL v5 Pediatría, NAL- NL1, NAL-NL2, y NAL-NL2 Tonal Idioma.
+  FT   : Fitting Formula Select your desired fitting formula: DSL v5 Adult, DSL v5 Pediatric, NAL- NL1, NAL-NL2, y NAL-NL2 Tonal Language.
+
+[62]
+  EN   : Processing Strategy With DSL v5 Adult or DSL v5 Pediatric, select your desired processing strategy: WDRC or Linear.
+  REF  : Estrategia de Con DSL v5 Adulto o DSL v5 Pediátrico, seleccione la estrategia de procesamiento procesamiento deseada: WDRC o Lineal.
+  BASE : Estrategia de procesamiento Con DSL v5 Adulto o DSL v5 Pediátrico, seleccione su estrategia de procesamiento deseada: WDRC o Lineal.
+  FT   : Estrategia de procesamiento con DSL v5 Adulto o DSL v5 Pediatría, selecciona la estrategia de procesamiento deseada: WDRC o Lineal.
+
+[63]
+  EN   : Selecting the other fitting formulas provides the WDRC processing option only.
+  REF  : Si selecciona las otras fórmulas de adaptación, solo se proporciona la opción de procesamiento WDRC.
+  BASE : Seleccionar las otras fórmulas adecuadas proporciona la opción de procesamiento WDRC solo.
+  FT   : La selección de las otras fórmulas de ajuste proporciona la opción de procesamiento de la RCWD únicamente.
+
+[64]
+  EN   : Tinnitus Masker Strategy Select your desired tinnitus masker signal strategy.
+  REF  : Estrategia de Seleccione su estrategia de señal deseada de enmascarador de tinnitus.
+  BASE : Estrategia de Máscara de Tinnitus Selecciona tu estrategia de señal de máscara de tinnitus deseada.
+  FT   : Tinnitus Masker Strategy Select your desired tinnitus masker signal strategy.
+
+[65]
+  EN   : The tinnitus masker noise can be viewed and adjusted in the Fitting > Tuning > Tinnitus Masker toolbox.
+  REF  : enmascarador de tinnitus El ruido del enmascarador de tinnitus se puede visualizar y ajustar en las herramientas Adaptación > Sintonización > Enmascarador de tinnitus.
+  BASE : El ruido del máscara de tinnitus se puede ver y ajustar en la herramienta de Fitting > Tuning > Tinnitus Masker.
+  FT   : El ruido de la máscara del tinnitus puede ser observado y ajustado en la herramienta de Fitting > Tuning > Tinnitus Masker.
+
+[66]
+  EN   : Frequency Compression Select whether to calculate the frequency compression strategy Strategy independently for the left and right hearing instruments.
+  REF  : Estrategia de compresión Seleccione si desea calcular la estrategia de compresión de frecuencia de frecuencia independientemente de los audífonos izquierdo y derecho.
+  BASE : Comprimir frecuencia Seleccionar si calcular la estrategia de compresión de frecuencia independientemente para los instrumentos de audición izquierdo y derecho.
+  FT   : La frecuencia de compresión Selecta si calcular la estrategia de compresión de frecuencia independientemente para los instrumentos de audición izquierda y derecha.
+
+[67]
+  EN   : In Situ Use the In Situ screen to assess hearing sensitivity and uncomfortable loudness levels via signals generated by the hearing instrument(s).
+  REF  : In situ Utilice la pantalla In situ para evaluar la sensibilidad auditiva y los niveles de volumen incómodos mediante las señales que generan los audífonos.
+  BASE : Uso en Situ Uso la pantalla In Situ para evaluar la sensibilidad auditiva y los niveles de ruido incómodos a través de señales generadas por el instrumento de audición (s).
+  FT   : En el uso de Situ se utiliza la pantalla In Situ para evaluar la sensibilidad auditiva y los niveles de ruido incómodos a través de señales generadas por el instrumento auditivo.
+
+[68]
+  EN   : The In Situ measurement results can be used to define the fitting formula targets.
+  REF  : Los resultados de la medición In Situ se pueden emplear para definir los objetivos de la fórmula de adaptación.
+  BASE : Los resultados de la medición In Situ pueden usarse para definir los objetivos de la fórmula de ajuste.
+  FT   : Los resultados de la medición in situ pueden ser utilizados para definir los objetivos de la fórmula de ajuste.
+
+[69]
+  EN   : Adaptation Manager The Automatic Adaptation Manager is activated when the check box is selected.
+  REF  : Se pueden configurar los ajustes haciendo clic en la herramienta correspondiente.
+  BASE : Adaptador de Adaptación El Adaptador de Adaptación Automática se activa cuando se selecciona la casilla de verificación.
+  FT   : Adaptación Manager El Manager de Adaptación Automática se activa cuando se selecciona la caja de verificación.
+
+[70]
+  EN   : The fitting software uses a proprietary calculation to determine the starting adaptation manager setting and the adaptation rate for the fitting.
+  REF  : Gestor de Adaptación El Gestor de Adaptación Automática se activa cuando se selecciona la casilla de verificación.
+  BASE : El software de ajuste utiliza un cálculo propietario para determinar la configuración del administrador de adaptación inicial y la tasa de adaptación para el ajuste.
+  FT   : El software de ajuste utiliza un cálculo propietario para determinar el establecimiento del gestor de adaptación al inicio y la tasa de adaptación para el ajuste.
+
+[71]
+  EN   : Occlusion Manager Select the desired occlusion setting to address any occlusion related complaints.
+  REF  : El software de adaptación emplea un cálculo patentado para determinar el ajuste inicial del gestor de adaptación y el índice de adaptación.
+  BASE : Gestor de Oclusión Seleccione la configuración de oclusión deseada para abordar cualquier queja relacionada con la oclusión.
+  FT   : El Manager de Oclusión selecciona el entorno de oclusión deseado para abordar cualquier queja relacionada con la oclusión.
+
+[72]
+  EN   : This feature impacts all programs except the music program by default.
+  REF  : Gestor de oclusión Seleccione el ajuste de oclusión deseado para solucionar las quejas relacionadas con las oclusiones.
+  BASE : Esta característica afecta a todos los programas excepto el programa de música por defecto.
+  FT   : Esta característica impacta en todos los programas excepto en el programa de música por defecto.
+
+[73]
+  EN   : Select the checkbox to enable the occlusion manager for music programs.
+  REF  : Esta función afecta de manera predeterminada a todos los programas a excepción del programa para música.
+  BASE : Selecciona la casilla de verificación para habilitar el administrador de ocultación para programas de música.
+  FT   : Seleccionar el cuadro de verificación para permitir al gestor de la oclusión para los programas de música.
+
+[74]
+  EN   : Bass Enhancer (if available) Select the desired setting to increase low frequency gain and MPO (emphasis below ~ 1 kHz).
+  REF  : Marque la casilla de verificación para habilitar el gestor de oclusión para los programas para música.
+  BASE : Aumentador de Bajo (si está disponible) Seleccione el ajuste deseado para aumentar la ganancia de frecuencia baja y MPO (énfasis debajo ~ 1 kHz).
+  FT   : Bass Enhancer (si está disponible) Selecciona el entorno deseado para aumentar la ganancia de baja frecuencia y MPO (énfasis por debajo de ~ 1 kHz).
+
+[75]
+  EN   : Soft / Mod / Loud Controls Select the frequency region(s) and input level to be modified.
+  REF  : Controles Seleccione las regiones de frecuencia y el nivel de entrada que se Suave/Moderado/Alto modificarán.
+  BASE : Controles suaves / moderados / fuertes Selecciona la región de frecuencia y el nivel de entrada a ser modificado.
+  FT   : Los controles suaves / Mod / Loud Select el nivel de frecuencia y el nivel de entrada a ser modificado.
+
+[76]
+  EN   : A range of fitting values can be selected by either choosing a specific input, channel grouping, or selecting All.
+  REF  : Se puede seleccionar un rango de valores de adaptación eligiendo una entrada específica, un agrupamiento de canales, o bien seleccionando Todo.
+  BASE : Una gama de valores de ajuste se pueden seleccionar eligiendo un input específico, agrupando canales o seleccionando Todos.
+  FT   : Una gama de valores de ajuste puede ser seleccionada eligiendo una entrada específica, agrupación de canales o seleccionando All.
+
+[77]
+  EN   : To select multiple frequency regions for adjustment, you can click and drag across the table.
+  REF  : Para seleccionar varias regiones de frecuencia para su ajuste, puede hacer clic y arrastrarlas a través de la tabla.
+  BASE : Para seleccionar varias regiones de frecuencia para ajustar, puede hacer clic y arrastrar a través de la tabla.
+  FT   : Para seleccionar múltiples regiones de frecuencia para ajuste, se puede hacer clic y arrastrar a través de la tabla.
+
+[78]
+  EN   : The scroll bar along the bottom of the table allows you to view frequency regions that are outside the visible area.
+  REF  : La barra de desplazamiento a lo largo de la parte inferior de la tabla le permite visualizar las regiones de frecuencia que están fuera del área visible.
+  BASE : La barra de desplazamiento al final de la tabla permite que veas las regiones de frecuencia que están fuera del área visible.
+  FT   : La barra de rodillo a lo largo del fondo de la tabla permite visualizar regiones de frecuencia que están fuera del área visible.
+
+[79]
+  EN   : MPO / Gain / CR Controls Select the frequency region(s) and parameter type to be modified.
+  REF  : MPO/Ganancia/ Seleccione las regiones de frecuencia y el tipo de parámetro que se Controles de CR modificarán.
+  BASE : MPO / Ganancia / CR Controla Seleccione la región de frecuencia (s) y el tipo de parámetro a modificar.
+  FT   : MPO / Gain / CR Controls Select the frequency region(s) and parameter type to be modified.
+
+[80]
+  EN   : If available, TK soft speech can be used to adjust the gain for low level sounds (this feature must be enabled in preferences before it can be adjusted).
+  REF  : Si está disponible, la función de habla suave TK se puede utilizar para ajustar la ganancia de sonidos de nivel bajo (esta función se puede habilitar en las preferencias antes de poderse ajustar).
+  BASE : Si está disponible, el habla suave de TK se puede utilizar para ajustar el aumento para los sonidos de nivel bajo (esta característica debe estar habilitada en preferencias antes de que pueda ser ajustada).
+  FT   : Si está disponible, el habla suave de TK puede ser utilizado para ajustar el beneficio para los sonidos de bajo nivel (esta característica debe ser habilitada en las preferencias antes de que pueda ser ajustada).
+
+[81]
+  EN   : To select multiple frequency regions for adjustment, you can click and drag across the table.
+  REF  : Para seleccionar varias regiones de frecuencia para su ajuste, puede hacer clic y arrastrarlas a través de la tabla.
+  BASE : Para seleccionar varias regiones de frecuencia para ajustar, puede hacer clic y arrastrar a través de la tabla.
+  FT   : Para seleccionar múltiples regiones de frecuencia para ajuste, se puede hacer clic y arrastrar a través de la tabla.
+
+[82]
+  EN   : The scroll bar along the bottom of the table allows you to view frequency regions that are outside the visible area.
+  REF  : La barra de desplazamiento a lo largo de la parte inferior de la tabla le permite visualizar las regiones de frecuencia que están fuera del área visible.
+  BASE : La barra de desplazamiento al final de la tabla permite que veas las regiones de frecuencia que están fuera del área visible.
+  FT   : La barra de rodillo a lo largo del fondo de la tabla permite visualizar regiones de frecuencia que están fuera del área visible.
+
+[83]
+  EN   : App Equalizer In follow up fittings, selecting a program will show the settings the client has applied to that program via the app.
+  REF  : Ecualizador de la aplicación En las adaptaciones de seguimiento, si se selecciona un programa, se mostrarán los ajustes que el paciente ha aplicado a este programa a través de la aplicación.
+  BASE : Equilizador de Aplicación En los ajustes de seguimiento, seleccionar un programa mostrará las configuraciones que el cliente ha aplicado a ese programa a través de la aplicación.
+  FT   : App Equalizer En el seguimiento de los ajustes, la selección de un programa mostrará los ajustes que el cliente ha aplicado a ese programa a través de la app.
+
+[84]
+  EN   : Frequency Compression Click the Enable Frequency Compression checkbox to activate this feature.
+  REF  : Compresión de frecuencia Haga clic en la casilla de verificación Habilitar compresión de frecuencia para activar esta función.
+  BASE : Comprimir frecuencia Haga clic en la casilla de verificación de Activar Comprimir frecuencia para activar esta función.
+  FT   : La frecuencia de compresión Click el Enable Frequency Compression checkbox para activar esta característica.
+
+[85]
+  EN   : Depending on the product, you can adjust the frequency compression to the desired setting using the More or Less buttons or by adjusting the Audibility / Distinction and Consonant Clarity / Vowel Quality sliders.
+  REF  : En función del producto, podrá ajustar la compresión de frecuencia según la configuración deseada con los botones Más o Menos, o bien mediante el ajuste de los controles deslizantes Audibilidad/Distinción y Claridad de Consonantes/Calidad de Vocales.
+  BASE : Dependiendo del producto, puede ajustar la compresión de frecuencia a la configuración deseada utilizando los botones Más o Menos o ajustando los deslizadores de Audibilidad / Distinción y Claridad de Consonantes / Calidad de Vocales.
+  FT   : Dependiendo del producto, se puede ajustar la compresión de frecuencia al entorno deseado utilizando los botones de More o Less o ajustando la Audibilidad / Distinction y Consonant Clarity / Vowel Quality.
+
+[86]
+  EN   : Fitting Advice Select a specific situation and concern for recommended adjustments.
+  REF  : Consejo de adaptación Seleccione una situación y preocupación específicas para los ajustes recomendados.
+  BASE : Consejos de ajuste Seleccione una situación específica y una preocupación para ajustes recomendados.
+  FT   : El consejo de ajuste Selecta una situación específica y preocupación por los ajustes recomendados.
+
+[87]
+  EN   : The scroll bar along the bottom of the table allows you to view frequency regions that are outside the visible area.
+  REF  : Para seleccionar varias regiones de frecuencia para su ajuste, puede hacer clic y arrastrarlas a través de la tabla.
+  BASE : La barra de desplazamiento al final de la tabla permite que veas las regiones de frecuencia que están fuera del área visible.
+  FT   : La barra de rodillo a lo largo del fondo de la tabla permite visualizar regiones de frecuencia que están fuera del área visible.
+
+[88]
+  EN   : Remote Adjust Click Start a Remote Adjust session to launch the Remote Adjust workflow.
+  REF  : La barra de desplazamiento a lo largo de la parte inferior de la tabla le permite visualizar las regiones de frecuencia que están fuera del área visible.
+  BASE : Click Start to launch a Remote Adjust session and start the Remote Adjust workflow.
+  FT   : El Click Start Remote Adjust Click Start a Remote Adjust session to launch the Remote Adjust workflow.
+
+[89]
+  EN   : You can also view the gain offset values for each of the changes supported by the hearing instrument(s).
+  REF  : También puede visualizar los valores de compensación de ganancia para cada uno de los cambios respaldados por los audífonos.
+  BASE : También puede ver los valores de compensación de ganancia para cada uno de los cambios apoyados por el instrumento de audición (s).
+  FT   : También se pueden visualizar los valores de compensación de ganancia para cada uno de los cambios apoyados por el instrumento de audición.
+
+[90]
+  EN   : Select the program(s) to view and alter the values of the adaptive parameters.
+  REF  : Seleccione los programas para visualizar y alterar los valores de los parámetros adaptativos.
+  BASE : Selecciona el programa(s) para ver y alterar los valores de los parámetros adaptativos.
+  FT   : Seleccionar el programa(s) para visualizar y alterar los valores de los parámetros adaptativos.
+
+[91]
+  EN   : Program Manager This screen allows you to add or remove manual programs, copy programs, rename programs, change program order, and assign easy-t / easy-DAI access (when applicable).
+  REF  : Gestor de programas Esta pantalla le permite añadir o eliminar programas de ajuste manual, copiar programas, volver a establecer el nombre de los programas, cambiar el pedido de un programa y asignar acceso de easy- t/easy-DAI (cuando corresponda).
+  BASE : Programa Gerente Esta pantalla permite agregar o eliminar programas manuales, copiar programas, renombrar programas, cambiar el orden de los programas y asignar acceso fácil / fácil DAI (si corresponde).
+  FT   : Program Manager Esta pantalla permite agregar o eliminar programas manuales, programas de copia, programas de renombramiento, cambiar el orden del programa y asignar el acceso fácil / fácil-DAI (cuando sea aplicable).
+
+[92]
+  EN   : To add a program manually, click the arrow next to the appropriate program in the Available Programs section.
+  REF  : Para añadir un programa manualmente, haga clic en la flecha que está junto al programa correspondiente en la sección Programas disponibles.
+  BASE : Para agregar un programa manualmente, haga clic en la flecha al lado del programa apropiado en la sección de Programas Disponibles.
+  FT   : Para agregar un programa manualmente, haga clic en la flecha junto al programa apropiado en la sección de Programas Disponibles.
+
+[93]
+  EN   : Feedback Optimization Select the Feedback Optimization screen to run the feedback test.
+  REF  : Optimización de la realimentación Seleccione la pantalla Optimización de la realimentación para realizar la prueba de realimentación.
+  BASE : Optimización de retroalimentación Seleccione la pantalla de Optimización de retroalimentación para ejecutar el test de retroalimentación.
+  FT   : La optimización de la retroalimentación selecciona la pantalla de optimización de la retroalimentación para ejecutar la prueba de retroalimentación.
+
+[94]
+  EN   : Repeating the test will replace any predicted values with measured values if they can be reliably obtained in the current test environment.
+  REF  : A la hora de repetir la prueba, se reemplazarán todos los valores previstos con los valores medidos si estos se pueden obtener confiablemente en el entorno de prueba actual.
+  BASE : Repetir la prueba reemplazará cualquier valor predicho con valores medidos si pueden obtenerse con confianza en el entorno de prueba actual.
+  FT   : Repetir la prueba reemplazará cualquier valor predicho con valores medidos si pueden obtenerse con confiabilidad en el entorno actual de la prueba.
+
+[95]
+  EN   : TV Connector Configure how the hearing instrument(s) will behave when they come into range of a TV Connector.
+  REF  : TV Connector Configure la reacción de los audífonos cuando entren al rango de un TV Connector.
+  BASE : Conector de TV Configure cómo se comportarán los instrumentos auditivos cuando entren en el rango de un Conector de TV.
+  FT   : El TV Connector Configura cómo el instrumento de audición (s) se comportará cuando se encuentre en el rango de un TV Connector.
+
+[96]
+  EN   : Volume Settings Choose the desired step size of volume control increase / decrease.
+  REF  : Ajustes de volumen Elija el salto deseado de incremento o disminución del control de volumen.
+  BASE : Configuración de volumen Elija el tamaño deseado de la escala de control de volumen aumentar / disminuir.
+  FT   : Los ajustes de volumen eligen el tamaño deseado del aumento o disminución del control de volumen.
+
+[97]
+  EN   : Startup Settings Select the desired Startup Program and Startup Delay.
+  REF  : Ajustes de inicio Seleccione el Programa de inicio y el Retraso de inicio deseados.
+  BASE : Configuración de arranque Seleccione el programa de arranque deseado y el retraso de arranque.
+  FT   : Los resultados de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la prueba de la
+
+[98]
+  EN   : Enable / disable the automatic behavior to turn on rechargeable hearing instrument(s) when they are removed from the charger (if applicable).
+  REF  : Habilite o deshabilite la conducta automática para encender los audífonos recargables cuando se retiren del cargador (si corresponde).
+  BASE : Habilitar / deshabilitar el comportamiento automático para encender los instrumentos de audición recargables cuando se extraen del cargador (si corresponde).
+  FT   : Habilitar / deshabilitar el comportamiento automático para encender el instrumento de audición reutilizable cuando se retira del cargador (si es aplicable).
+
+[99]
+  EN   : Data Logging Select the desired data logging behavior.
+  REF  : DataLogging Seleccione la conducta de registro de datos.
+  BASE : Registro de datos Seleccione el comportamiento de registro de datos deseado.
+  FT   : Los datos de registro de datos seleccionan el comportamiento de registro de datos deseado.
+
+[100]
+  EN   : Program Toggle Exceptions Select any programs to be excluded from the toggle sequence.
+  REF  : Excepciones del cambio Seleccione los programas que se excluirán de la secuencia de cambio.
+  BASE : Programa Alternar excepciones Seleccionar cualquier programa para excluir de la secuencia de alternar.
+  FT   : Program Toggle Exceptions Select any programs to be excluded from the toggle sequence.
+
+[101]
+  EN   : Tap Control Sensitivity If applicable, configure how firmly the client needs to tap on their hearing instrument(s) to activate the tap control.
+  REF  : de programa Sensibilidad del control Si corresponde, configure la firmeza con la que el paciente debe tocar táctil los audífonos para activar el control táctil.
+  BASE : Sensibilidad del control de toque Si corresponde, configura cómo firmemente el cliente necesita tocar en sus instrumentos de audición para activar el control de toque.
+  FT   : Sensibilidad del Tap Control Si es aplicable, configura cómo firmemente el cliente necesita tapar en su instrumento de audición para activar el control de la tapa.
+
+[102]
+  EN   : Beeps Demonstrate and configure user notification beeps in the hearing instrument(s).
+  REF  : Señales de alerta Demuestre y configure los pitidos de notificación para el paciente en los audífonos.
+  BASE : Beep  Muestre y configure los pitidos de notificación de usuario en el instrumento de audición (s).
+  FT   : Beeps Demonstrate y configuran la notificación de los usuarios en el instrumento de audición.
+
+[103]
+  EN   : Beep Setup Select the intensity and frequency of the beeps for each ear.
+  REF  : Configuración de los Beeps Seleccione la intensidad y la frecuencia de los pitidos para cada oído.
+  BASE : Configuración de Beep Seleccione la intensidad y la frecuencia de los pitidos para cada oreja.
+  FT   : Beep Setup Select la intensidad y frecuencia de los beeps para cada oído.
+
+[104]
+  EN   : Beep Enabling Deselect beep notification types to deactivate them for the client.
+  REF  : Activación de alertas Omita la selección de los tipos de notificación por pitidos a fin de desactivarlos para el paciente.
+  BASE : Activar Beep Deseleccionar los tipos de notificaciones de Beep para desactivarlos para el cliente.
+  FT   : Beep Enabling Deselect beep notification types to deactivate them for the client.
+
+[105]
+  EN   : Trial Duration Shows the amount of time before the ‘End of trial period’ beeps are (if applicable) generated in the hearing instrument(s).
+  REF  : Duración de la prueba Muestra la cantidad de tiempo que queda antes de que suenen los (si corresponde) pitidos de “Fin del período de prueba” en los audífonos.
+  BASE : Duración de la prueba Muestra la cantidad de tiempo antes de que los "Fin del período de prueba" (si corresponde) se generan en el instrumento de audición (s).
+  FT   : La duración del ensayo muestra la cantidad de tiempo antes de que los beep de ‘End of trial period’ sean (si es aplicable) generados en el instrumento de audición.
+
+[106]
+  EN   : Insights Setup The Insights Setup screen provides an easy way to enable Insights for you and your clients.
+  REF  : Configuración de percepciones La pantalla Configuración de percepciones permite habilitar la función Percepciones para usted y los pacientes.
+  BASE : Configuración de Insights La pantalla de Configuración de Insights proporciona una forma fácil de habilitar Insights para usted y sus clientes.
+  FT   : Insights Setup La pantalla de Insights Setup proporciona una forma fácil de permitir Insights para usted y sus clientes.
+
+[107]
+  EN   : Following detection, hearing instrument(s) automatically allow Insights activation.
+  REF  : Los primeros pasos son actividades únicas para Iniciar sesión o Crear su cuenta y habilitar Percepciones.
+  BASE : Después de la detección, los instrumentos de audición permiten automáticamente la activación de Insights.
+  FT   : Después de la detección, el instrumento de audición permite la activación automática de Insights.
+
+[108]
+  EN   : Once you have saved to the hearing instrument(s), the client can complete the setup process by selecting to ‘Activate’ Insights when setting up their Remote Plus app (available for Bluetooth enabled hearing instruments).
+  REF  : Una vez que se haya guardado en los audífonos, el paciente puede completar el proceso de configuración seleccionando “Activar” Percepciones a la hora de configurar la aplicación Remote Plus (disponible para audífonos con Bluetooth).
+  BASE : Una vez que hayas guardado en el instrumento auditivo (s), el cliente puede completar el proceso de configuración seleccionando la opción de ‘Activar’ Insights cuando se configura la aplicación Remota Plus (disponible para instrumentos auditivos con Bluetooth habilitado).
+  FT   : Una vez que se ha salvado al instrumento de audición, el cliente puede completar el proceso de configuración seleccionando a los Insights de Activación cuando se configura su aplicación Remote Plus (disponible para los instrumentos de audición Bluetooth).
+
+[109]
+  EN   : The next 10 time you open a session for that client, you will see confirmation that activation is complete, enabling Success Check, Remote Adjust, Coach, and Ratings.
+  REF  : La próxima vez que abra una sesión para el mismo paciente, verá un mensaje confirmando la finalización de la activación y se habilitará Verificación de éxito, Ajuste remoto, Asistente Virtual y Calificaciones.
+  BASE : La próxima vez que abra una sesión para ese cliente, verá confirmación de que la activación está completa, lo que permite Success Check, Remote Adjust, Coach, y Ratings.
+  FT   : En el próximo 10 tiempo, al abrir una sesión para ese cliente, se confirma que la activación es completa, permitiendo el éxito de la verificación, el ajuste remoto, el entrenador y las calificaciones.
+
+[110]
+  EN   : Fitting Summary The Fitting Summary screen provides an overview of primary fitting-related items for the hearing instrument(s).
+  REF  : Resumen de la adaptación En la pantalla Resumen de la adaptación se proporciona el resumen de los elementos principales relacionados con la adaptación para los audífonos.
+  BASE : Resumen de ajuste El Resumen de ajuste pantalla proporciona una visión general de los elementos principales relacionados con el ajuste de la(s) instrumento(s) auditivo(s).
+  FT   : Resumen Fitting Summary La pantalla de Fitting Summary proporciona una visión general de los ítems relacionados con el ajuste primario para el instrumento de audición.
+
+[111]
+  EN   : The table provides an opportunity for a final check of the fitting settings and general status prior to ending the session.
+  REF  : La tabla brinda la oportunidad de realizar una comprobación final de los ajustes de adaptación y el estado general antes de terminar la sesión.
+  BASE : La tabla proporciona una oportunidad para un último chequeo de los ajustes de la instalación y el estado general antes de terminar la sesión.
+  FT   : La tabla ofrece una oportunidad para una verificación final de los ajustes de ajuste y el estado general antes de finalizar la sesión.
+
+[112]
+  EN   : If desired, additional details can be viewed by clicking the More Info button.
+  REF  : Si lo desea, se puede visualizar información detallada adicional haciendo clic en el botón Más información.
+  BASE : Si se desea, se pueden ver detalles adicionales al hacer clic en el botón More Info.
+  FT   : Si se desea, los detalles adicionales pueden ser vistos al hacer clic en el botón More Info.
+
+[113]
+  EN   : This screen also includes options to Send Email (auto-generates a getting started email of support materials for the client), Print, Save, or Close Session.
+  REF  : En esta pantalla también se incluyen opciones para Enviar email (genera automáticamente un email de inicio de los materiales de referencia para el paciente), Imprimir, Guardar o Cerrar Sesión.
+  BASE : Esta pantalla también incluye opciones para Enviar Correo Electrónico (genera automáticamente un correo electrónico de inicio para materiales de apoyo para el cliente), Imprimir, Guardar o Cerrar Sesión.
+  FT   : Esta pantalla también incluye opciones para enviar Email (auto-genera un correo electrónico de inicio de los materiales de apoyo para el cliente), Print, Save, o Close Session.
+
+[114]
+  EN   : Insights Menu Overview This screen provides a high-level view of the client’s usage, lifestyle, and experience with their hearing instrument(s).
+  REF  : Menú de Percepciones Resumen En esta pantalla se brinda una vista de alto nivel del uso, estilo de vida y experiencia de los pacientes con los audífonos.
+  BASE : Menú de Insigths Resumen Esta pantalla proporciona una visión general de la utilización, estilo de vida y experiencia del cliente con sus instrumentos de audición.
+  FT   : Insights Menu Overview Esta pantalla ofrece una visión de alto nivel del uso del cliente, estilo de vida y experiencia con su instrumento de audición.
+
+[115]
+  EN   : The left-hand pane of the screen shows Success Check (allows you to view current Insights data without connecting to hearing instruments), History (allows you to view the history from previous sessions), Quick Links (buttons linking to commonly used features in follow up fittings), and Difficult Situation Predictions (prediction of difficult ‘sound types’ that your client may be likely to experience).
+  REF  : El panel izquierdo de la pantalla muestra el Verificación de éxito (Success Check) (permite ver los datos actuales de Insights sin conectarse a los audífonos), Historial (le permite ver el historial de las sesiones anteriores), Enlaces rápidos (botones que le enlazan a las funciones más usadas en las adaptaciones de seguimiento) y Predicciones de situaciones complejas (predicción de “tipos de sonido” que posiblemente experimentará el paciente).
+  BASE : La pestaña izquierda de la pantalla muestra Success Check (permite ver los datos de Insights actuales sin conectar a los instrumentos de audición), History (permite ver la historia de las sesiones anteriores), Quick Links (botones que enlazan a características comúnmente utilizadas en los ajustes de seguimiento), y Predicciones de Situaciones Difíciles (predicción de los tipos de sonido difíciles que su cliente puede experimentar).
+  FT   : El panel izquierdo de la pantalla muestra Success Check (permite ver los datos de Insights actuales sin conectar a los instrumentos de audición), History (permite ver la historia de las sesiones anteriores), Quick Links (predicción de los tipos de seguimiento).
+
+[116]
+  EN   : Usage (Data Logging) This screen provides insights into how the client interacts with the hearing instrument(s).
+  REF  : Uso (DataLogging) En esta pantalla se proporcionan las percepciones sobre la forma en que el paciente interactúa con los audífonos.
+  BASE : Uso (Registro de datos) Esta pantalla proporciona información sobre cómo el cliente interactúa con el instrumento auditivo (s).
+  FT   : Uso (Data Logging) Esta pantalla proporciona información sobre cómo el cliente interactúa con el instrumento de audición.
+
+[117]
+  EN   : A graph in the centre of the screen shows the percentage of time spent in automatic and manual programs.
+  REF  : En el centro de la pantalla se muestra un gráfico donde aparece el porcentaje del tiempo invertido en programas automáticos y de ajuste manual.
+  BASE : Un gráfico en el centro de la pantalla muestra el porcentaje de tiempo dedicado a los programas automáticos y manuales.
+  FT   : Un gráfico en el centro de la pantalla muestra el porcentaje de tiempo dedicado a programas automáticos y manuales.
+
+[118]
+  EN   : The table provides information related to average usage and volume control adjustments across all programs.
+  REF  : La tabla proporciona información relacionada con el uso promedio y los ajustes del control de volumen en todos los programas.
+  BASE : La tabla proporciona información relacionada con ajustes de uso promedio y control de volumen en todas las aplicaciones.
+  FT   : La tabla proporciona información relacionada con el ajuste del uso promedio y del control del volumen en todos los programas.
+
+[119]
+  EN   : This screen also displays the history from previous sessions, duration of client usage, and any ratings.
+  REF  : En esta pantalla también aparece el historial de sesiones anteriores, la duración del uso del paciente y las calificaciones.
+  BASE : Esta pantalla también muestra la historia de las sesiones anteriores, la duración del uso del cliente y cualquier calificación.
+  FT   : Esta pantalla también muestra la historia de las sesiones anteriores, la duración del uso del cliente y cualquier calificación.
+
+[120]
+  EN   : Log It All This screen provides an overview of a client’s listening lifestyle.
+  REF  : Log It All En esta pantalla se proporciona el resumen del estilo de vida auditivo del paciente.
+  BASE : Registra todo Esta pantalla proporciona una visión general del estilo de escucha de un cliente.
+  FT   : Log It All Esta pantalla ofrece una visión general del estilo de vida de escucha de un cliente.
+
+[121]
+  EN   : All the time spent in acoustic real-world listening situations is classified by the hearing instrument(s) and mapped to the defined listening environments.
+  REF  : Todo el tiempo invertido en las situaciones auditivas y acústicas del mundo real se clasifica en los audífonos y se asigna a los entornos auditivos definidos.
+  BASE : Todas las veces que se pasa en situaciones de escucha real del mundo acústico se clasifican por los instrumentos de audición y se mapean a los entornos de escucha definidos.
+  FT   : Todos los tiempos dedicados a la escucha real del mundo acústico se clasifican por el instrumento de audición y se mapean a los ambientes de escucha definidos.
+
+[122]
+  EN   : Technology Level Comparison Displays the current technology level and alternate levels available.
+  REF  : Historial Le permite consultar el historial de Log It All de sesiones anteriores.
+  BASE : Comparación de Nivel de Tecnología Muestra el nivel de tecnología actual y los niveles alternativos disponibles.
+  FT   : La comparación de los niveles tecnológicos muestra el nivel tecnológico actual y los niveles alternativos disponibles.
+
+[123]
+  EN   : Scores Each technology level has two scores – one for Coverage and one for Performance.
+  REF  : Puntuaciones Cada nivel de tecnología tiene dos puntuaciones: una para Cobertura y otra para Rendimiento.
+  BASE : Puntuaciones Cada nivel de tecnología tiene dos puntuaciones – una para Cobertura y una para Rendimiento.
+  FT   : Cada nivel tecnológico tiene dos puntuaciones: una para Cobertura y otra para Desempeño.
+
+[124]
+  EN   : Coverage Screen Shows data from the hearing instrument(s) on how well a technology level is optimized for the listening environments where the client spends their time.
+  REF  : Pantalla Cobertura Muestra los datos de los audífonos sobre el rendimiento de la optimización de un nivel de tecnología en los entornos auditivos donde el paciente invierte su tiempo.
+  BASE : La pantalla de cobertura muestra los datos de los instrumentos de audición sobre cómo bien un nivel de tecnología está optimizado para los entornos de escucha donde el cliente pasa su tiempo.
+  FT   : La cobertura de pantalla muestra datos del instrumento de audición sobre cómo se optimiza el nivel tecnológico para los ambientes de escucha donde el cliente pasa su tiempo.
+
+[125]
+  EN   : The boxes below the bars show the 11 percentage of time the client has spent in each listening environment.
+  REF  : Los cuadros que están debajo de las barras muestran el porcentaje de tiempo que el paciente invierte en cada entorno auditivo.
+  BASE : Los cuadros debajo de las barras muestran el 11 por ciento del tiempo que el cliente ha pasado en cada entorno de escucha.
+  FT   : Las cajas por debajo de las barras muestran el 11 por ciento del tiempo que el cliente ha pasado en cada ambiente de escucha.
+
+[126]
+  EN   : Performance Screen Select either High or Low under Listening Complexity.
+  REF  : Pantalla Rendimiento Seleccione Alta o Baja en Complejidad Auditiva.
+  BASE : Pantalla de rendimiento Seleccione alto o bajo bajo complejidad de escucha.
+  FT   : El Performance Screen Select either High or Low under Listening Complexity.
+
+[127]
+  EN   : For High Listening Complexity environments, Speech Direction shows how well a technology level can manage speech from different directions based on the client’s personal listening lifestyle.
+  REF  : En el entornos con complejidad auditiva alta, la función Dirección del habla muestra el rendimiento del nivel de tecnología para gestionar el habla desde distintas direcciones según el estilo de vida auditivo personal del paciente.
+  BASE : Para entornos de alta complejidad de escucha, Speech Direction muestra cómo bien un nivel de tecnología puede manejar la voz de diferentes direcciones basado en el estilo de vida de escucha personal del cliente.
+  FT   : Para los ambientes de alta complejidad de escucha, la Dirección del Discurso muestra cómo un nivel tecnológico puede manejar el habla de diferentes direcciones basadas en el estilo de vida de escucha personal del cliente.
+
+[128]
+  EN   : For Low Complexity environments, Sound Awareness shows how well a technology level provides awareness of speech and other sounds around the client.
+  REF  : En los entornos de complejidad baja, la función Percepción de sonido muestra el rendimiento del nivel de tecnología para proporcionar la percepción del habla y otros sonidos que se producen alrededor del paciente.
+  BASE : Para entornos de baja complejidad, Sound Awareness muestra cómo bien un nivel de tecnología proporciona la conciencia de la palabra y otros sonidos alrededor del cliente.
+  FT   : Para los ambientes de baja complejidad, el Sound Awareness muestra cómo un nivel tecnológico proporciona conciencia del habla y otros sonidos alrededor del cliente.
+
+[129]
+  EN   : Feature List Displays the Feature Comparison dialog, allowing you to see a side- by-side comparison of the features.
+  REF  : Lista de funciones Muestra el diálogo Comparación de funciones, el cual le permite visualizar una comparación paralela de las funciones.
+  BASE : Lista de características Muestra el diálogo de comparación de características, permitiendo que vea una comparación de lado a lado de las características.
+  FT   : La lista de características muestra el diálogo de comparación de características, permitiendo ver una comparación de lado a lado de las características.
+
+[130]
+  EN   : Ratings This feature allows you to view the ratings and comments clients submitted using the app.
+  REF  : Calificaciones Esta función le permite visualizar las calificaciones y los comentarios que los pacientes enviaron mediante la aplicación.
+  BASE : Calificaciones Esta función permite ver las calificaciones y comentarios que los clientes enviaron utilizando la aplicación.
+  FT   : Ratings Esta característica permite visualizar las calificaciones y comentarios de los clientes presentados mediante la aplicación.
+
+[131]
+  EN   : The Timeline View displays an overview of the positive and negative moment ratings of the client over time.
+  REF  : La Vista cronológica muestra un resumen de las calificaciones positivas y negativas de momentos del paciente en un plazo de tiempo.
+  BASE : La Vista de Cronograma muestra una visión general de las calificaciones de momento positivas y negativas del cliente a lo largo del tiempo.
+  FT   : La Timeline View muestra una visión general de las puntuaciones positivas y negativas del cliente a lo largo del tiempo.
+
+[132]
+  EN   : The Moment Ratings view displays the same client ratings grouped according to the situation selected by the client for each rating.
+  REF  : En la vista Calificaciones de momentos se muestran las calificaciones del mismo paciente agrupadas según la situación que el paciente selecciona para cada calificación.
+  BASE : La vista de Momentos de Calificación muestra las mismas calificaciones de clientes agrupadas según la situación seleccionada por el cliente para cada calificación.
+  FT   : La visión de Moment Ratings muestra las mismas calificaciones de los clientes agrupadas según la situación seleccionada por el cliente para cada calificación.
+
+[133]
+  EN   : Curve Display Options All the curves displayed in the fitting software, aside from the Feedback Optimization graph, are based on targets that are generated assuming a speech input.
+  REF  : Opciones de visualización de curva Todas las curvas visualizadas en el software de adaptación, además del gráfico de Optimización de la realimentación, se basan en los objetivos que se generan para adoptar una entrada de habla.
+  BASE : Opciones de visualización de curvas Todas las curvas que se muestran en el software de ajuste, excepto la gráfica de Optimización de Retroalimentación, se basan en objetivos que se generan suponiendo una entrada de habla.
+  FT   : Las opciones de visualización de la curva Todas las curvas mostradas en el software de ajuste, aparte del gráfico de Optimización de Feedback, se basan en objetivos que se generan asumiendo una entrada de habla.
+
+[134]
+  EN   : On any screen displaying a graph, change the display by clicking the curve display icon above the upper right graph.
+  REF  : En las pantallas que muestran un gráfico, modifique la visualización haciendo clic en el icono de visualización de curva que se encuentra por encima del gráfico superior derecho.
+  BASE : En cualquier pantalla que muestre un gráfico, cambie la visualización haciendo clic en el icono de visualización de curvas encima del gráfico superior derecho.
+  FT   : En cualquier pantalla que muestre un gráfico, cambiar la pantalla al hacer clic en el icono de la curva por encima del gráfico superior derecho.
+
+[135]
+  EN   : Adjustments made here are applied to both the left and right graphs.
+  REF  : Los ajustes que se realicen aquí se aplican a los gráficos izquierdos y derechos.
+  BASE : Las ajustes realizados aquí se aplican a ambos gráficos, el izquierdo y el derecho.
+  FT   : Los ajustes realizados aquí se aplican tanto a los gráficos izquierdo como derecho.
+
+[136]
+  EN   : Depending on the section of the fitting software, there are different options available for selection.
+  REF  : Menú principal Las opciones del Menú principal se describen en la sección Estructura y Navegación de esta guía.
+  BASE : Dependiendo de la sección del software de ajuste, hay diferentes opciones disponibles para la selección.
+  FT   : Dependiendo de la sección del software de ajuste, existen diferentes opciones disponibles para la selección.
+
+[137]
+  EN   : Main Menu Main Menu options are outlined in the Structure & Navigation section of this guide.
+  REF  : A continuación, se proporciona información detallada sobre algunos de los elementos del menú.
+  BASE : Opciones del menú principal se describen en la sección Estructura y navegación de este manual.
+  FT   : Las principales opciones de Menú Main Menu se presentan en la sección Estructura & Navegación de esta guía.
+
+[138]
+  EN   : Verification Mode Verification Mode can be found under Hearing Instrument > Verification Mode.
+  REF  : Modo de verificación El Modo de verificación se encuentra en Audífono > Modo de verificación.
+  BASE : Modo de Verificación El Modo de Verificación se puede encontrar en Hearing Instrument > Modo de Verificación.
+  FT   : El modo de verificación de la verificación del modo de escucha puede encontrarse bajo el instrumento de escucha > modo de verificación.
+
+[139]
+  EN   : This sets the hearing instrument into a verification mode to allow testing without the interference of adaptive features.
+  REF  : Este modo establece el audífono en un modo de verificación para realizar pruebas sin la interferencia por parte de funciones adaptativas.
+  BASE : Esto pone el instrumento de audición en un modo de verificación para permitir la prueba sin la interferencia de características adaptativas.
+  FT   : Esto establece el instrumento de audición en un modo de verificación para permitir la prueba sin la interferencia de las características adaptativas.
+
+[140]
+  EN   : There are 3 options:  Adaptive features active: default state  Real Ear Verification: all features disabled except Natural Sound Balance and input selection  2cc Coupler Verification: all adaptive features and input selection are disabled 12 Transfer Fitting The Transfer Fitting workflow can be accessed through Hearing Instrument > Transfer Fitting.
+  REF  : Hay 3 opciones:  Funciones adaptativas activas: estado predeterminado  Verificación de Oído real: todas las funciones desactivadas, excepto Natural Sound Balance y la selección de entradas  Verificación de Acoplador 2cc: todas las funciones adaptativas y la selección de entradas están desactivadas Transferencia de adaptación Se puede acceder al flujo de trabajo Transferencia de adaptación a través de Audífono > Transferencia de adaptación.
+  BASE : Hay 3 opciones:  Características adaptativas activas: estado predeterminado  Verificación de oído real: todas las características desactivadas excepto el equilibrio de sonido natural y la selección de entrada  Verificación de 2cc: todas las características adaptativas y la selección de entrada desactivadas 12 Ajuste de transferencia El flujo de trabajo de Ajuste de transferencia se puede acceder a través de Instrumento de audición > Ajuste de transferencia. Traducción automática
+There are 3 options:  Adaptive features active: default state  Real Ear Verification: all features disabled except Natural Sound Balance and input selection  2cc Coupler Verification: all adaptive features and input selection are disabled 12 Transfer Fitting The Transfer Fitting workflow can be accessed through Hearing Instrument > Transfer Fitting.
+  FT   : Existen 3 opciones:  Características adaptativas activas: estado de default  Real Ear Verification: todas las características deshabilitadas excepto Natural Sound Balance y selección de entrada  2cc Coupler Verification: todas las características adaptativas y selección de entrada pueden ser transferidas.
+
+[141]
+  EN   : Transfer Fitting assists with the transfer of a fitting to or from another hearing instrument.
+  REF  : El flujo de trabajo Transferencia de adaptación ayuda con la transferencia de una adaptación hacia o desde otro audífono.
+  BASE : Transferencia de ajuste ayuda con la transferencia de un ajuste a o desde otro instrumento auditivo.
+  FT   : El Fitting Transfer asiste con la transferencia de un ajuste a o desde otro instrumento de audición.
+
+[142]
+  EN   : Training Session Training Mode is used to demonstrate the full functionality of each screen as if hearing instruments were connected.
+  REF  : Sesión de entrenamiento El Modo formación se utiliza para demostrar la funcionalidad completa de cada pantalla como si los audífonos estuvieran conectados.
+  BASE : Sesión de entrenamiento El modo de entrenamiento se utiliza para demostrar la funcionalidad completa de cada pantalla como si los instrumentos de audición estuvieran conectados.
+  FT   : El modo de entrenamiento de la sesión de entrenamiento se utiliza para demostrar la total funcionalidad de cada pantalla como si los instrumentos auditivos estuvieran conectados.
+
+[143]
+  EN   : Training Sessions can be accessed on the Main Menu under Help > Training Session.
+  REF  : Se puede acceder a las sesiones de formación en el Menú principal en Ayuda > Sesión de entrenamiento.
+  BASE : Sesiones de capacitación pueden accederse en el menú principal en Ayuda > Sesión de capacitación.
+  FT   : Las sesiones de entrenamiento pueden ser accesibles en el Menú Principal bajo Ayuda > Sesión de Entrenamiento.
+
+[144]
+  EN   : You can select from several training scenarios which include a free-flow and scenarios with pre-defined data.
+  REF  : Puede seleccionar de entre varios escenarios de formación, donde se incluyen escenarios de flujo bajo y escenarios con datos predefinidos.
+  BASE : Puede seleccionar varios escenarios de entrenamiento que incluyen un flujo libre y escenarios con datos predefinidos.
+  FT   : Puedes seleccionar varios escenarios de formación que incluyen un flujo libre y escenarios con datos predefinidos.
+
+[145]
+  EN   : Select a client and then create a training session.
+  REF  : Seleccione un cliente y, a continuación, cree una sesión de formación.
+  BASE : Selecciona un cliente y luego crea una sesión de entrenamiento.
+  FT   : Selecciona un cliente y luego crea una sesión de entrenamiento.
+
+[146]
+  EN   : You can simulate the entire workflow of detecting hearing instruments as well as tests such as the Feedback Optimization test.
+  REF  : Puede simular todo el flujo de trabajo de detectar audífonos, además de pruebas, como la prueba de Optimización de la realimentación.
+  BASE : Puede simular el flujo de trabajo completo de la detección de instrumentos auditivos así como pruebas como la prueba de optimización de retroalimentación.
+  FT   : Puedes simular todo el flujo de trabajo de la detección de instrumentos auditivos, así como pruebas como la prueba de Optimización de Feedback.
+
+[147]
+  EN   : You can also simulate Data Logging information including Log It All, if applicable.
+  REF  : También puede simular la información de Data Logging, incluyendo Log It All, si corresponde.
+  BASE : También puedes simular información de registro de datos, incluyendo Log It All, si corresponde.
+  FT   : También se puede simular la información de Data Logging incluyendo Log It All, si es aplicable.
+
+[148]
+  EN   : Important Safety Information Unitron TrueFit fitting software is a medical device.
+  REF  : Las sesiones de formación no se pueden guardar.
+  BASE : Información Importante de Seguridad El software de ajuste Unitron TrueFit es un dispositivo médico.
+  FT   : La Unidad de Información de Seguridad Importante del software de ajuste de TrueFit es un dispositivo médico.
+
+[149]
+  EN   : This user guide provides a detailed introduction to hearing instrument fitting with Unitron TrueFit.
+  REF  : Esta guía de usuario proporciona una presentación detallada a la adaptación del audífono con Unitron TrueFit.
+  BASE : Este manual de usuario proporciona una introducción detallada a la ajustación de instrumentos auditivos con Unitron TrueFit.
+  FT   : Este guía de usuario proporciona una introducción detallada al ajuste del instrumento auditivo con Unitron TrueFit.
+
+[150]
+  EN   : Tinnitus masker is intended for patients from 18 years of age and above.
+  REF  : El enmascarador de tinnitus está previsto para pacientes de 18 años de edad en adelante.
+  BASE : El tinnitus masker está destinado a pacientes de 18 años de edad y mayores.
+  FT   : El máscara de tinnitus está destinado a pacientes de 18 años o más.
+
+[151]
+  EN   : Indications: Please note, indications are not derived from the fitting software, but from compatible hearing aids.
+  REF  : Indicaciones: Tenga en cuenta que las indicaciones no surgen a partir del software de adaptación, sino de dispositivos auditivos compatibles.
+  BASE : Indicaciones:  Por favor, tenga en cuenta que las indicaciones no se derivan del software de ajuste, sino de audífonos compatibles.
+  FT   : Indicaciones: Tenga en cuenta que las indicaciones no se derivan del software de ajuste, sino de los audífonos compatibles.
+
+[152]
+  EN   : General clinical indications for the use of hearing aids and tinnitus masker are:  Presence of a hearing loss o Unilateral or bilateral o Conductive, sensorineural, or mixed o Mild to profound  Presence of chronic tinnitus (only for hearing aids which offer tinnitus masker) 13 Contraindications: Please note, contraindications are not derived from the fitting software, but from compatible hearing aids.
+  REF  : Las indicaciones clínicas generales para utilizar dispositivos auditivos y el enmascarador de tinnitus se muestran a continuación:  Presencia de pérdida auditiva o Unilateral o bilateral o Conductiva, neurosensorial o mixta o Leve a profunda  Presencia de tinnitus crónico (solo para dispositivos auditivos que ofrecen el enmascarador de tinnitus) Contraindicaciones: Tenga en cuenta que las contraindicaciones no surgen a partir del software de adaptación, sino de dispositivos auditivos compatibles.
+  BASE : Indicaciones clínicas generales para el uso de audífonos y tinnitus masker son:  Presencia de una pérdida auditiva o Unilateral o Bilateral o Conductiva, sensorineural o Mixta o Leve a profunda  Presencia de tinnitus crónico (solo para audífonos que ofrecen tinnitus masker) 13 Contraindicaciones: Tenga en cuenta, las contraindicaciones no se derivan del software de ajuste, sino de audífonos compatibles.
+  FT   : Las indicaciones clínicas generales para el uso de audífonos y máscara de tinnitus son:  Presencia de una pérdida auditiva o unilateral o bilateral o Conductiva, sensorineural o mixta o Leve a profunda presencia de tinnitus.
+
+[153]
+  EN   : If legally required, the patient has signed a disclaimer to confirm that the referral advice has not been accepted and that it is an informed decision.
+  REF  : Si la ley lo requiere, el paciente ha firmado un descargo de responsabilidad para confirmar que no se ha aceptado el asesoramiento de remisión y que esta es una decisión informada.
+  BASE : Si es legalmente necesario, el paciente ha firmado una exención para confirmar que el consejo de remisión no ha sido aceptado y que es una decisión informada.
+  FT   : Si se requiere legalmente, el paciente ha firmado un aviso para confirmar que la orientación de remisión no ha sido aceptada y que es una decisión informada.
+
+[154]
+  EN   : Limit of use: Unitron TrueFit fitting software usage is limited to fit and adjust compatible devices.
+  REF  : Límite de uso: El uso del software de adaptación Unitron TrueFit se limita a adaptar y ajustar dispositivos compatibles.
+  BASE : Límite de uso: El uso de la software de ajuste TrueFit de Unitron está limitado a la adaptación y ajuste de dispositivos compatibles.
+  FT   : El límite de uso: el uso del software de ajuste de la unidad TrueFit se limita a ajustar y ajustar dispositivos compatibles.
+
+[155]
+  EN   : Unitron TrueFit fitting software is not intended for any diagnostic purpose.
+  REF  : El software de adaptación Unitron TrueFit no se ha diseñado para fines de diagnóstico.
+  BASE : El software de ajuste TrueFit de Unitron no está destinado a ningún propósito diagnóstico.
+  FT   : El software de ajuste de la unidad TrueFit no está destinado a ningún propósito diagnóstico.
+
+[156]
+  EN   : Risks: In the case of this fitting software, these risks manifest themselves through the hearing aids it is intended to program.
+  REF  : Los dispositivos auditivos convencionales tienen el potencial de exponer a los pacientes a mayores niveles de sonido y esto puede producir cambios de umbral en el rango de frecuencia afectado por el trauma acústico.
+  BASE : Riesgos: En el caso de este software de ajuste, estos riesgos se manifiestan a través de los audífonos que se pretende programar.
+  FT   : Riesgos: En el caso de este software de ajuste, estos riesgos se manifiestan a través de los audífonos que se pretende programar.
+
+[157]
+  EN   : These risks are extremely low, but both HCPs and wearers of hearing aids should be aware of them nonetheless.
+  REF  : Riesgos: En el caso de este software de adaptación, estos riesgos se manifiestan en los dispositivos auditivos a los que programará.
+  BASE : Estos riesgos son extremadamente bajos, pero tanto los profesionales de la salud como los usuarios de audífonos deben estar conscientes de ellos a pesar de todo.
+  FT   : Estos riesgos son extremadamente bajos, pero tanto los HCP como los portadores de audífonos deben ser conscientes de ellos.
+
+[158]
+  EN   : Wrong side information The hearing instrument is configured for the opposite side.
+  REF  : Estos riesgos son extremadamente bajos, pero los audioprotesistas y los pacientes que utilizan los dispositivos auditivos deben tenerlos en cuenta.
+  BASE : Información incorrecta del lado El instrumento auditivo está configurado para el lado opuesto.
+  FT   : La información incorrecta del lado. El instrumento de audición se configura para el lado opuesto.
+
+[159]
+  EN   : Test settings Remove the hearing instruments from the client’s ears.
+  REF  : Nivel alto de ruido del enmascarador de tinnitus El nivel del generador de ruido en ambos audífonos supera los 80 dB(A).
+  BASE : Configuración de la prueba Retire los instrumentos auditivos de las orejas del cliente.
+  FT   : Los test de configuración de la escucha remueven los instrumentos de audición de las orejas del cliente.
+
+[160]
+  EN   : The user guide is accessible via the [Help] function within the fitting software.
+  REF  : Los datos de adaptación se pueden restaurar al final del proceso.
+  BASE : El manual del usuario está accesible a través de la función [Ayuda] dentro del software de ajuste.
+  FT   : La guía del usuario es accesible a través de la función [Help] dentro del software de ajuste.
+
+[161]
+  EN   : The user guide for all fitting software versions in all applicable languages in electronic form is accessible via webpage: https://www.unitron.com/instr To obtain a free paper copy of the instructions of use, please contact your local manufacturer representative.
+  REF  : Información de cumplimiento y descripciones de símbolos Información sobre cumplimiento Europa: Declaración de conformidad Información de conformidad en Europa: Declaración de conformidad Por la presente, Sonova AG declara que este producto cumple con los requisitos del Reglamento sobre productos sanitarios (UE) 2017/745 Se puede acceder a la guía del usuario mediante la función [Ayuda] en el software de adaptación.
+  BASE : El manual del usuario para todas las versiones del software de ajuste en todas las lenguas aplicables en forma electrónica está disponible a través de la página web: https://www.unitron.com/instr Para obtener una copia impresa gratuita de las instrucciones de uso, por favor, comuníquese con su representante local del fabricante.
+  FT   : La guía del usuario para todas las versiones de software de ajuste en todos los idiomas aplicables en forma electrónica está disponible en la página web: https://www.unitron.com/instr Para obtener una copia local de las instrucciones de uso, por favor contacte con el fabricante.
+
+[162]
+  EN   : Any serious incident that has occurred in relation to this product, should be reported to the manufacturer representative and the competent authority of the state of residence.
+  REF  : Se puede acceder a la guía del usuario de todas las versiones del software de adaptación en todos los idiomas aplicables en formato digital a través de la página web: https://www.unitron.com/instr Para obtener una copia impresa gratuita de las instrucciones de uso, póngase en contacto con el representante local del fabricante.
+  BASE : Cualquier incidente grave que haya ocurrido en relación con este producto, debe ser informado al representante del fabricante y a la autoridad competente del estado de residencia.
+  FT   : Cualquier incidente grave que haya ocurrido en relación con este producto, debe ser notificado al representante del fabricante y a la autoridad competente del estado de residencia.
+
+[163]
+  EN   : You can use drive encryption (e.g., the free Microsoft BitLocker) to protect all data on your PC.
+  REF  :  Asegúrese de que la versión instalada del software de adaptación esté actualizada.
+  BASE : Puede utilizar la cifrado de arranque (por ejemplo, el gratuito Microsoft BitLocker) para proteger todos los datos en su PC.
+  FT   : Puedes utilizar la codificación de la conducción (por ejemplo, el Microsoft BitLocker libre) para proteger todos los datos de tu PC.
+
+[164]
+  EN   : If working under Noah, consider using the Noah database encryption.
+  REF  :  Active el inicio de sesión del usuario de Windows, utilice contraseñas seguras y mantenga las credenciales en secreto.
+  BASE : Si está trabajando bajo Noah, considere usar la cifrado de base de datos Noah.
+  FT   : Si se trabaja bajo Noah, se considera utilizar la base de datos de Noah.
+
+[165]
+  EN   : Please be aware that this listing is not exhaustive.
+  REF  :  Utilice herramientas antivirus y de protección contra malware adecuadas y actualizadas.
+  BASE : Por favor tenga en cuenta que esta lista no es exhaustiva.
+  FT   : Por favor, tenga en cuenta que esta lista no es exhaustiva.
+
+[166]
+  EN   :  When transferring data through unsafe channels, either send anonymous data or encrypt it.
+  REF  : En función de las leyes nacionales, es posible que deba codificar todos los datos del paciente a fin de no considerarse responsable de la pérdida o robo de datos.
+  BASE :  Cuando se transfieran datos a través de canales inseguros, envíe datos anónimos o cifrelos.
+  FT   :  Cuando se transfieren datos a través de canales inseguros, se envían datos anónimos o se cifran.
+
+[167]
+  EN   : Software maintenance We are constantly monitoring feedback from the market.
+  REF  : Puede utilizar el cifrado de la unidad (por ejemplo, Microsoft BitLocker gratuito) para proteger todos los datos de su ordenador.
+  BASE : Mantenimiento de software Estamos constantemente monitoreando los comentarios del mercado.
+  FT   : Mantenimiento de software Estamos constantemente monitoreando la retroalimentación del mercado.
+
+[168]
+  EN   : The numbers after the CE symbol correspond to the code of certified institutions that were consulted under the above-mentioned regulation.
+  REF  : Si tiene algún problema con la versión más reciente del software de adaptación, póngase en contacto con el representante local del fabricante.
+  BASE : Los números después del símbolo CE corresponden al código de instituciones certificadas que fueron consultadas bajo la regulación mencionada anteriormente.
+  FT   : Los números después del símbolo CE corresponden al código de instituciones certificadas que fueron consultadas bajo la regulación mencionada anteriormente.
+
+[169]
+  EN   : Combined symbol “medical device manufacturer” and “date of manufacture” as defined in in EU Regulation (EU) 2017/745.
+  REF  : Los números que aparecen con el símbolo CE corresponden al código de instituciones certificadas que fueron consultadas en virtud de la regulación mencionada anteriormente.
+  BASE : Símbolo combinado “fabricante de dispositivos médicos” y “fecha de fabricación” tal como se define en la Regulación (UE) 2017/745 del Parlamento Europeo y del Consejo.
+  FT   : El símbolo combinado “fabricante de dispositivos médicos” y “fecha de fabricación” como se define en la Regulación de la UE (UE) 2017/745.
+
+[170]
+  EN   : Indicates the manufacturer’s catalogue number so that the medical device can be identified.
+  REF  : Nombre, dirección, fecha Indica el representante autorizado de la Comunidad Europea.
+  BASE : Indica el número de catálogo del fabricante para que el dispositivo médico pueda ser identificado.
+  FT   : Indica el número del catálogo del fabricante para que el dispositivo médico pueda ser identificado.
+
+[171]
+  EN   : An indication that electronic instructions for use are available.
+  REF  : El representante de la CE también es el importador en la Unión Europea.
+  BASE : Una indicación de que están disponibles las instrucciones electrónicas de uso.
+  FT   : Indicación de que están disponibles instrucciones electrónicas para su uso.
+
+[172]
+  EN   : Provides further clarification about a feature or functionality.
+  REF  : Una indicación de que las instrucciones de uso están disponibles.
+  BASE : Proporciona una mayor claridad sobre una característica o funcionalidad.
+  FT   : Proporciona una mayor clarificación sobre una característica o funcionalidad.
+
+[173]
+  EN   : Indicates a restriction in functionality or highlights important information that requires your attention.
+  REF  : Este símbolo indica que es importante para el usuario leer y tener en cuenta la información relevante expuesta en estas guías de usuario.
+  BASE : Indica una restricción en la funcionalidad o destaca información importante que requiere tu atención.
+  FT   : Indica una restricción en la funcionalidad o destaca información importante que requiere su atención.
+
+[174]
+  EN   : Indicates that something went wrong and requires correction in order to continue.
+  REF  : Aporta más claridad sobre una función o funcionalidad.
+  BASE : Indica que algo salió mal y requiere corrección para continuar.
+  FT   : Indica que algo salió mal y requiere corrección para continuar.
+
+[175]
+  EN   : Sonova AG • Laubisrütistrasse 28 • Sonova Deutschland GmbH 058-5178-056 CH-8712 Stäfa • Switzerland Max-Eyth-Str.
+  REF  : Para la guía de las versiones anteriores del software de adaptación, contacte con su representante local de Unitron.
+  BASE : Sonova AG • Laubisrütistrasse 28 • Sonova Deutschland GmbH 058-5178-056 CH-8712 Stäfa • Suiza Max-Eyth-Str.
+  FT   : Sonova AG • Laubisrütistrasse 28 • Sonova Deutschland GmbH 058-5178-056 CH-8712 Stäfa • Switzerland Max-Eyth-Str.
+
+====================================================================
+  METRICS
+  Base BLEU :  27.69    Base chrF :  52.79
+  FT   BLEU :  20.67    FT   chrF :  45.78
+  Δ    BLEU :  -7.02    Δ    chrF :  -7.01
+====================================================================

@@ -1,3 +1,25 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+*.key
+
+# Outputs / logs
+*.log
+.cache/
+.pytest_cache/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
 finetuning/config.py
 *.pdf
 *.docx

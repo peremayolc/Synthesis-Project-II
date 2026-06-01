@@ -1,0 +1,170 @@
+====================================================================
+  Document  : Unitron Remote Plus
+  Checkpoint: /hhome/ps2g02/model_output_medical_v2/checkpoint-5938
+  Domain    : medical
+  Base model: unsloth/meta-llama-3.1-8b-instruct-unsloth-bnb-4bit
+  Pairs     : 26
+====================================================================
+
+[1]
+  EN   : Unitron Bluetooth wireless hearing aids are required to use the Unitron Remote Plus app. The Unitron Remote Plus app can be used on devices with Bluetooth® Low-Energy (BT-LE) capability and is compatible with iOS Version 12 or newer.
+  REF  : Para poder utilizar la aplicación Unitron Remote Plus se necesitan audífonos Unitron con conexión inalámbrica Bluetooth®. La aplicación Unitron Remote Plus se puede utilizar en dispositivos con Bluetooth® de baja energía (Low-Energy, BT-LE) y es compatible con iOS versión 16 o posterior.
+  BASE : Los audífonos inalámbricos con Bluetooth de Unitron se requieren para usar la aplicación Unitron Remote Plus. La aplicación Unitron Remote Plus se puede usar en dispositivos con capacidad de Bluetooth Low-Energy (BT-LE) y es compatible con iOS Versión 12 o más reciente.
+  FT   : Se requiere el uso de los audífonos inalámbricos de Bluetooth Unitron para utilizar la aplicación Unitron Remote Plus. La aplicación Unitron Remote Plus puede ser utilizada en dispositivos con capacidad de Bluetooth Low-Energy (BT-LE) y es compatible con iOS Version 12 o más reciente.
+
+[2]
+  EN   : The Unitron Remote Plus app can be used on Google Mobile Services (GMS) certified Android devices supporting Bluetooth 4.2 and Android OS 7 or newer.
+  REF  : Unitron Remote Plus app se puede utilizar en dispositivos Android certificados por Google Mobile Services (GMS) que admitan Bluetooth® 4.2 y Android OS 10.0 o posterior.
+  BASE : La aplicación Unitron Remote Plus se puede utilizar en dispositivos Android certificados por Google Mobile Services (GMS) que admiten Bluetooth 4.2 y Android OS 7 o superior.
+  FT   : La aplicación Unitron Remote Plus puede ser utilizada en dispositivos Android certificados por Google Mobile Services (GMS) que apoyan Bluetooth 4.2 y Android OS 7 o más nuevos.
+
+[3]
+  EN   : Some phones have touch sounds or keypad tones, which could be streamed to the hearing aid(s). To avoid this, go to your phone settings, select sounds and make sure that all touch sounds and keypad tones are deactivated.
+  REF  : Algunos teléfonos tienen sonidos de pulsación o tonos de teclado que podrían transmitirse a los audífonos. Para evitarlo, vaya a los ajustes de su teléfono y, en la sección de sonidos, asegúrese de desactivar todos los sonidos de pulsación y los tonos del teclado.
+  BASE : Algunos teléfonos tienen sonidos de tacto o tonos de teclado, que podrían transmitirse a los audífonos. Para evitar esto, vaya a las configuraciones de su teléfono, seleccione sonidos y asegúrese de que todos los sonidos de tacto y tonos de teclado estén desactivados.
+  FT   : Algunos teléfonos tienen sonidos de toque o tonos de teclado, que podrían ser transmitidos a los audífonos. Para evitar esto, vaya a sus configuraciones de teléfono, seleccione sonidos y asegúrese de que todos los sonidos de toque y tonos de teclado estén desactivados.
+
+[4]
+  EN   : The features available in the Unitron Remote Plus app vary depending on the hearing aids connected. Not all features are available for all hearing aids.
+  REF  : Las funciones disponibles en la aplicación Unitron Remote Plus varían en función de los audífonos conectados. No todas las funciones están disponibles para todos los audífonos.
+  BASE : Las características disponibles en la aplicación Unitron Remote Plus varían dependiendo de los audífonos conectados. No todas las características están disponibles para todos los audífonos.
+  FT   : Las características disponibles en la aplicación Unitron Remote Plus varían dependiendo de los audífonos conectados. No todas las características están disponibles para todos los audífonos.
+
+[5]
+  EN   : You can always select the "demo" mode to try the app without connecting a Unitron hearing aid and get a first impression of the functionalities. In this mode no remote control functionality is available for your hearing aids.
+  REF  : Seleccione "Modo de demostración" para probar la aplicación sin conectar los audífonos. Tenga en cuenta que en este modo no está disponible la función de control remoto.
+  BASE : Siempre puede seleccionar el "modo demo" para probar la aplicación sin conectar un audífono Unitron y obtener una primera impresión de las funcionalidades. En este modo no está disponible la función de control remoto para sus audífonos.
+  FT   : Siempre se puede seleccionar el modo "demo" para probar la aplicación sin conectar un audífono de Unidron y obtener una primera impresión de las funcionalidades. En este modo no se dispone de ninguna funcionalidad de control remoto para sus audífonos.
+
+[6]
+  EN   : Move the slider up or down to increase or decrease the hearing aid volume on both sides.
+  REF  : Mueva el ajuste de volumen subir o bajar el volumen del audífono en ambos oídos.
+  BASE : Mueva el deslizador hacia arriba o hacia abajo para aumentar o disminuir el volumen del audífono en ambos lados.
+  FT   : Mover el deslizador hacia arriba o hacia abajo para aumentar o disminuir el volumen del audífono en ambos lados.
+
+[7]
+  EN   : Press the "mute" button below the slider to mute or unmute the hearing aids.
+  REF  : Pulse el botón silenciar para silenciar los audífonos o activar el sonido.
+  BASE : Presione el botón "silenciar" debajo del deslizador para silenciar o desactivar los audífonos.
+  FT   : Presionar el botón "mute" debajo del slider para mudo o inmuto los audífonos.
+
+[8]
+  EN   : Press the "split volume" button to control the volume on each hearing aid separately. Use the volume slider to change the volume. Press the "join volume" button to merge the volume sliders.
+  REF  : Pulse el botón separar volumen para controlar el volumen de cada audífono por separado. Pulse el botón unir volumen para combinar los ajustes de volumen.
+  BASE : Presione el botón "split volume" para controlar el volumen en cada audífono por separado. Utilice el deslizador de volumen para cambiar el volumen. Presione el botón "join volume" para combinar los deslizadores de volumen.
+  FT   : Presiona el botón "split volume" para controlar el volumen en cada audífono por separado. Utilice el deslizador de volumen para cambiar el volumen. Presiona el botón "join volume" para fusionar los deslizadores de volumen.
+
+[9]
+  EN   : For the Automatic Program, "Clarity" is available to enhance speech, whereas "Comfort" is used to reduce noise to improve overall listening comfort. Clarity and Comfort are mutually exclusive, and cannot both be in the 'On' state at the same time.
+  REF  : En el programa Automático, puede seleccionar entre Normal, Comodidad o Claridad. Claridad sirve para realzar el habla, mientras que Confort se utiliza para reducir el ruido y mejorar el confort general de escucha. Claridad y Comodidad son mutuamente excluyentes y no pueden estar activados al mismo tiempo.
+  BASE : Para el Programa Automático, "Claridad" está disponible para mejorar la voz, mientras que "Confort" se utiliza para reducir el ruido para mejorar el confort de escucha en general. La claridad y el confort son mutuamente excluyentes, y no pueden estar ambos en el estado 'Encendido' al mismo tiempo.
+  FT   : Para el Programa Automático, "Clarity" está disponible para mejorar el habla, mientras que "Comfort" se utiliza para reducir el ruido para mejorar el confort general de la escucha. Clarity y Comfort son mutuamente excluyentes y no pueden estar en el estado 'On' al mismo tiempo.
+
+[10]
+  EN   : If you opted in for the Insights feature, you will see a happy face icon on the right side of the main screen. Tap on it to send feedback to your clinician.
+  REF  : Al activar Percepciones y habilitar Calificaciones, puede tocar el icono de Calificaciones para compartir información sobre su experiencia auditiva con su profesional de salud auditiva.
+  BASE : Si optaste por la característica de Insights, verás un icono de cara sonriente en el lado derecho de la pantalla principal. Toca en él para enviar retroalimentación a tu profesional de la salud.
+  FT   : Si optó por la característica Insights, verá una iconografía feliz en el lado derecho de la pantalla principal. Tap en él para enviar retroalimentación a su clínico.
+
+[11]
+  EN   : Further adjustments are available depending on the program currently selected, your hearing aid configuration, and connected audio sources (e.g. TV Connector). Tap the advanced features button at the bottom-right corner to access these options:
+  REF  : En función del programa seleccionado, de la configuración de los audífonos y de las fuentes de audio conectadas, es posible que se puedan realizar otros ajustes. Acceda a estos ajustes en la pantalla de Inicio, tocando el botón funciones avanzadas ubicado en la esquina superior derecha del panel del programa para los ajustes más avanzados.
+  BASE : Estas ajustaciones están disponibles dependiendo del programa seleccionado, la configuración de su audífono, y fuentes de audio conectadas (por ejemplo, Conector de TV). Presione el botón de características avanzadas en la esquina inferior derecha para acceder a estas opciones:
+  FT   : Se dispone de ajustes adicionales dependiendo del programa actualmente seleccionado, la configuración del audífono y las fuentes de audio conectadas (por ejemplo, TV Connector). Tap the advanced features button at the bottom-right corner to access these options:
+
+[12]
+  EN   : If you use an external streaming device, (e.g. TV Connector, music) you can adjust the focus to hear more of the streamed signal or alternatively more of the surrounding environment.
+  REF  : Si utiliza un dispositivo de transmisión externo (p. ej., TV Connector, música), puede ajustar el balance para escuchar más la señal transmitida o el ambiente circundante.
+  BASE : Si utiliza un dispositivo de transmisión externo (por ejemplo, TV Connector, música), puede ajustar el enfoque para escuchar más de la señal transmitida o alternativamente más del entorno circundante.
+  FT   : Si se utiliza un dispositivo de flujo externo (por ejemplo, TV Connector, música), se puede ajustar el foco para escuchar más de la señal de flujo o alternativamente más del entorno circundante.
+
+[13]
+  EN   : If you have tinnitus, and have been instructed by your hearing care professional on how to use the Tinnitus Masker, you can adjust the volume of the masking noise.
+  REF  : Si su profesional de salud auditiva ha habilitado el enmascarador de tinnitus, dispondrá de una opción para ajustar el volumen del ruido de enmascaramiento.
+  BASE : Si tiene acúfeno y ha sido instruido por su profesional de atención a la audición sobre cómo usar el Tinnitus Masker, puede ajustar el volumen del ruido de mascarado.
+  FT   : Si tienes acúfeno y has sido instruido por tu profesional de atención auditiva sobre cómo utilizar el Tinnitus Masker, puedes ajustar el volumen del ruido de mascarado.
+
+[14]
+  EN   : The "Reduce Noise" control allows you to increase or reduce the level of noise to the desired comfort level.
+  REF  : El control Reducir el ruido permite aumentar o reducir el nivel de ruido hasta el nivel de comodidad deseado.
+  BASE : El control "Reduce Noise" te permite aumentar o reducir el nivel de ruido al nivel de comodidad deseado.
+  FT   : El control "Reduce Noise" permite aumentar o reducir el nivel de ruido al nivel de confort deseado.
+
+[15]
+  EN   : The "Enhance Speech" control allows you to increase or reduce the focus on speech to the desired comfort level.
+  REF  : El control Realzar habla permite realzar o reducir la voz hasta el nivel o de confort deseado.
+  BASE : El control "Aumentar el habla" permite aumentar o reducir el enfoque en la habla al nivel de comodidad deseado.
+  FT   : El control "Enhance Speech" permite aumentar o reducir el foco en el habla al nivel de confort deseado.
+
+[16]
+  EN   : You can adjust the "Focus Mic" control to focus more on sounds from the front or listen all around you.
+  REF  : Puede ajustar el control Enfocar micrófono para centrarse más en los sonidos del frente o escuchar todo a su alrededor.
+  BASE : Puede ajustar el control "Focus Mic" para enfocarse más en los sonidos de la parte delantera o escuchar en todas direcciones.
+  FT   : Puedes ajustar el control "Focus Mic" para centrarse más en los sonidos del frente o escuchar todo alrededor de ti.
+
+[17]
+  EN   : The app is available in different languages. It will automatically match the language of the phone's operating system. If the phone's language is not supported, the default language is English.
+  REF  : La aplicación está disponible en varios idiomas. Se adaptará automáticamente al idioma del sistema operativo del teléfono, si dicho idioma es compatible. Si el idioma del teléfono no es compatible, el idioma predeterminado es el inglés.
+  BASE : La aplicación está disponible en diferentes idiomas. Se ajustará automáticamente al idioma del sistema operativo del teléfono. Si el idioma del teléfono no está soportado, el idioma por defecto es el inglés.
+  FT   : La aplicación está disponible en diferentes idiomas. Se ajustará automáticamente el lenguaje del sistema operativo del teléfono. Si el lenguaje del teléfono no está apoyado, el lenguaje por defecto es el inglés.
+
+[18]
+  EN   : Hereby Sonova AG declares that this Unitron product is in compliance with the essential requirements of the Medical Devices Directive 93/42/EEC.
+  REF  : Por la presente, Sonova AG declara que este producto cumple con los requisitos de la Regulación sobre productos sanitarios (UE) 2017/745.
+  BASE : Por lo tanto, Sonova AG declara que este producto de Unitron cumple con los requisitos esenciales de la Directiva de Dispositivos Médicos 93/42/EEC.
+  FT   : Sonova AG declara que este producto de la Unidadron cumple con los requisitos esenciales de la Directiva 93/42/EEC de Dispositivos Médicos.
+
+[19]
+  EN   : If the hearing aids do not respond to the device because of an unusual field disturbance, move away from the disturbing field.
+  REF  : Si los audífonos no responden al dispositivo debido a una perturbación inusual del campo, aléjese del campo perturbador.
+  BASE : Si los audífonos no responden al dispositivo debido a una perturbación del campo inusual, se aleje del campo perturbador.
+  FT   : Si los audífonos no responden al dispositivo debido a una perturbación inusual del campo, se alejan del campo perturbador.
+
+[20]
+  EN   : Instructions are available at: unitron.com/appguide in Adobe® Acrobat® PDF format. To view them, you must have Adobe Acrobat Reader installed. Visit Adobe.com to download.
+  REF  : Puede encontrar las instrucciones en: unitron.com/appguide, en formato Adobe® Acrobat® PDF. Para verlas, debe tener instalado Adobe Acrobat Reader. Visite Adobe.com para descargarlo.
+  BASE : Las instrucciones están disponibles en: unitron.com/appguide en formato de PDF de Adobe Acrobat. Para verlas, debe tener instalado el lector de Adobe Acrobat. Visite Adobe.com para descargarlo.
+  FT   : Las instrucciones están disponibles en: unitron.com/appguide en formato PDF de Adobe Acrobat. Para visualizarlos, es necesario tener instalado Adobe Acrobat Reader. Visitar Adobe.com para descargar.
+
+[21]
+  EN   : To obtain a free paper copy of the instructions, please contact your local Unitron representative. A copy will be sent within 7 days.
+  REF  : Para obtener una copia impresa gratuita de las instrucciones, comúníquese con su representante local de Unitron. Se le enviará una copia en 7 días.
+  BASE : Para obtener una copia gratuita de las instrucciones, por favor contacte a su representante local de Unitron.  Una copia se enviará dentro de 7 días.
+  FT   : Para obtener una copia libre de papel de las instrucciones, por favor contacte con su representante local de la Unidadron. Se enviará una copia dentro de los 7 días.
+
+[22]
+  EN   : With the CE symbol, Sonova AG confirms that this Unitron product – including accessories – meets the requirements of the Medical Devices Directive 93/42/EEC.
+  REF  : Con el símbolo CE, Sonova AG declara que este producto cumple con los requisitos de la Regulación sobre productos sanitarios (UE) 2017/745.
+  BASE : Con el símbolo CE, Sonova AG confirma que este producto de Unitron – incluyendo accesorios – cumple con los requisitos de la Directiva de Dispositivos Médicos 93/42/EEC.
+  FT   : Con el símbolo CE, Sonova AG confirma que este producto Unitron, incluyendo accesorios, cumple los requisitos de la Directiva 93/42/EEC de Dispositivos Médicos.
+
+[23]
+  EN   : This symbol indicates that it is important for the user to read and take into account the relevant information in this user guide.
+  REF  : Este símbolo indica que es importante que el usuario lea y tenga en cuenta la información relevante de estas guías del usuario.
+  BASE : Este símbolo indica que es importante para el usuario leer y tener en cuenta la información relevante en este manual del usuario.
+  FT   : Este símbolo indica que es importante para el usuario leer y tener en cuenta la información relevante en este guía del usuario.
+
+[24]
+  EN   : This symbol indicates that it is important for the user to pay attention to the relevant warning notices in this user guide.
+  REF  : Este símbolo indica que es importante que el usuario preste atención a los avisos de advertencia relevantes de esta guía del usuario.
+  BASE : Este símbolo indica que es importante para el usuario prestar atención a las advertencias relevantes en este manual del usuario.
+  FT   : Este símbolo indica que es importante para el usuario prestar atención a las advertencias relevantes en esta guía de usuario.
+
+[25]
+  EN   : Indicates the Authorized representative in the European Community. The EC REP is also the importer to the European Union.
+  REF  : Indica el representante autorizado de la Unión Europea. El EU REP también es el importador a la Unión Europea.
+  BASE : Indica al representante autorizado en la Comunidad Europea. El REP de la CE también es el importador a la Unión Europea.
+  FT   : Indica el representante autorizado en la Comunidad Europea. El REP CE también es el importador a la Unión Europea.
+
+[26]
+  EN   : The Bluetooth® word mark and logos are registered trademarks owned by Bluetooth SIG, Inc. and any use of such marks by Unitron is under license. Other trademarks and trade names are those of their respective owners.
+  REF  : La marca Bluetooth® y sus logotipos son marcas comerciales registradas por Bluetooth® SIG, Inc., y cualquier uso que Sonova AG realice de dichas marcas será bajo licencia. Las demás marcas y nombres comerciales pertenecen a sus respectivos propietarios.
+  BASE : La marca de palabra Bluetooth® y los logotipos son marcas registradas propiedad de Bluetooth SIG, Inc. y cualquier uso de tales marcas por parte de Unitron se hace bajo licencia. Otros marcas y nombres comerciales son propiedad de sus respectivos propietarios.
+  FT   : La marca de Bluetooth y los logos están registrados como marcas registradas propiedad de Bluetooth SIG, Inc. y cualquier uso de tales marcas por parte de la Unidadron está bajo licencia. Otros nombres de marca y nombres comerciales son los de sus respectivos propietarios.
+
+====================================================================
+  METRICS
+  Base BLEU :  36.84    Base chrF :  64.60
+  FT   BLEU :  33.39    FT   chrF :  60.54
+  Δ    BLEU :  -3.45    Δ    chrF :  -4.06
+====================================================================
