@@ -1,0 +1,650 @@
+====================================================================
+  Document  : Unitron Moxi V-312
+  Checkpoint: /hhome/ps2g02/model_output_medical_v2/checkpoint-5938
+  Domain    : medical
+  Base model: unsloth/meta-llama-3.1-8b-instruct-unsloth-bnb-4bit
+  Pairs     : 106
+====================================================================
+
+[1]
+  EN   : Moxi V-312 TM hearing aid guide Powered by Vivante Unitron Moxi V-312 Unitron Moxi V-312 FLEX:TRIALTM A Sonova brand Your hearing aid details This user guide applies to the following models: Hearing aids If no box is checked and you do not know the model of your hearing aid, please ask your hearing care professional.
+  REF  : Guía del audífono Moxi V-312 TM Powered by Vivante Unitron Moxi V-312 Unitron Moxi V-312 FLEX:TRIALTM A Sonova brand Datos del audífono Esta guía del usuario se aplica a los siguientes modelos: Si no hay ninguna casilla marcada Audífonos y desconoce el modelo de su audífono, consulte a su profesional de salud auditiva.
+  BASE : Guía del audífono Moxi V-312 TM Audífono impulsado por Vivante Unitron Moxi V-312 Unitron Moxi V-312 FLEX:TRIALTM Marca de Sonova Detalles de su audífono Esta guía de usuario se aplica a los siguientes modelos: Audífonos Si no se marca ninguna casilla y no sabe el modelo de su audífono, por favor pregunte a su profesional de atención al audífono.
+  FT   : Moxi V-312 TM hearing aid guide Powered by Vivante Unitron Moxi V-312 Unitron Moxi V-312 FLEX:TRIALTM A Sonova brand Your hearing aid details This user guide applies to the following hearing aid model.
+
+[2]
+  EN   : Moxi™ V9-312 Your hearing aids operate between 2.4 GHz– Moxi™ V7-312 2.48 GHz frequency range.
+  REF  : Los audífonos funcionan en un rango de Moxi™ V9-312 frecuencias de 2,4 a 2,48 GHz.
+  BASE : Moxi™ V9-312  Sus audífonos funcionan en el rango de frecuencia de 2,4 GHz a 2,48 GHz.
+  FT   : Moxi™ V9-312 Sus audífonos funcionan entre 2,4 GHz– Moxi™ V7-312 2,48 GHz.
+
+[3]
+  EN   : When flying please Moxi™ V5-312 check if flight operator requires devices to be switched into flight mode, see chapter 11.
+  REF  : Cuando viaje en Moxi™ V7-312 avión, compruebe si la aerolínea requiere que cambie sus audífonos al modo avión (véase Moxi™ V5-312 el capítulo 11).
+  BASE : Cuando vuelas, por favor, verifica si el operador de vuelo requiere que los dispositivos se cambien a modo de vuelo, véase el capítulo 11.
+  FT   : Cuando se vuela, Moxi™ V5-312 verifica si el operador de vuelo requiere dispositivos para ser cambiados en modo de vuelo, ver el capítulo 11.
+
+[4]
+  EN   : Moxi™ V3-312 Moxi™ V1-312* Moxi™ V-312 FLEX:TRIAL Hearing aid models Earpieces c Moxi V-312 (9/7/5/3/1) c Dome c Moxi V-312 FLEX:TRIAL c SlimTip c cShell Battery size 312 *not available in all markets Quick guide Multi-function button Your hearing aids come with a multi- On/Off function button that allows you to adjust them.
+  REF  : Moxi™ V3-312 Moxi™ V1-312* Moxi™ V-312 FLEX:TRIAL Acopladores Modelos de audífonos acústicos c Moxi V-312 (9/7/5/3/1) c Cápsula c Moxi V-312 FLEX:TRIAL c SlimTip c cShell Tamaño de la pila 312 *no disponible en todos los mercados Guía rápida Botón multifunción Los audífonos incluyen un botón Encendido/Apagado multifunción que permite ajustarlos.
+  BASE : Moxi™ V3-312 Moxi™ V1-312* Moxi™ V-312 FLEX:TRIAL  Modelos de audífonos  Conos para oído c Moxi V-312 (9/7/5/3/1) c Dome c Moxi V-312 FLEX:TRIAL c SlimTip c cShell Tamaño de la batería 312 *no disponible en todos los mercados Guía rápida Botón de función múltiple Sus audífonos vienen con un botón de función múltiple que le permite ajustarlos.  Encendido/Apagado Función de ajuste  Puede ajustar el volumen, la frecuencia y la configuración de la respuesta en función de la frecuencia.  Ajuste de volumen  Ajuste de frecuencia  Ajuste de respuesta en función de la frecuencia  Ajuste de configuración de respuesta en función de la frecuencia  Ajuste de configuración de respuesta en función de la frecuencia  Ajuste de configuración de respuesta en función de la frecuencia  Ajuste de configuración de respuesta en función de la frec
+  FT   : Moxi™ V3-312 Moxi™ V1-312* Moxi™ V-312 FLEX:TRIAL Hearing aid models Earpieces c Moxi V-312 (9/7/5/3/1) c Moxi V-312 c Moxi V-312 c Moxi V-312 c Moxi V-312 c Moxi V-312 c Moxi V-312 c Moxi V-312 c Moxi V-312 c Moxi V-312 c Moxi V-312 c Moxi V-312 c Moxi V-312 c Moxi V-312 c Moxi V-312 c Moxi V-312 c Moxi V-312 c Moxi V-312 c Moxi V-312 c Moxi V-312 c Moxi V-312 c Moxi V-312 c Moxi V-312 c Moxi V-312 c Moxi V-312 c Moxi V-312 c Moxi V-312 c Moxi V-312 c Moxi V-312 c Moxi V-312 c
+
+[5]
+  EN   : The multi-function button on your hearing aids can be both a volume control and a program control.
+  REF  : El botón multifunción de los audífonos permite controlar el volumen y los programas.
+  BASE : La botón multifunción en sus audífonos puede ser tanto un control de volumen como un control de programa.
+  FT   : El botón multifuncional en sus audífonos puede ser tanto un control de volumen como un control de programa.
+
+[6]
+  EN   : You may also use the multi- function button to accept and reject calls to your paired mobile phone.
+  REF  : También podrá utilizar el botón multifunción para aceptar y rechazar llamadas del teléfono móvil emparejado.
+  BASE : También puede utilizar el botón de múltiples funciones para aceptar y rechazar llamadas a su teléfono móvil emparejado.
+  FT   : También puede utilizar el botón de múltiples funciones para aceptar y rechazar llamadas a su teléfono móvil emparejado.
+
+[7]
+  EN   : On Off Open Phone calls: If paired with a Bluetooth® enabled phone, a short press will accept Low battery warning Battery size and a long press will reject an incoming call.
+  REF  : Encendido Apagado Abierto Llamadas telefónicas: Si está emparejado con un teléfono compatible con Bluetooth®, una pulsación Advertencia de batería baja Tamaño de la pila corta aceptará las llamadas y una pulsación larga las rechazará.
+  BASE : En Off Abrir Llamadas de teléfono: Si se conecta con un teléfono Bluetooth® habilitado, un breve presión aceptará la advertencia de batería baja y una presión larga rechazará una llamada entrante.
+  FT   : En llamadas de Off Open Phone: si se pone en pareja con un teléfono Bluetooth, una presión corta aceptará el tamaño de la batería de Low Battery y una presión larga rechazará una llamada entrante.
+
+[8]
+  EN   : Enter flight mode: With hearing aid turned Multi-function button off, hold down the lower push button on the hearing aid while closing the battery door, and keep the button pushed down for 7 seconds.
+  REF  : Activación del modo avión: con el audífono Botón multifunción apagado, mantenga pulsado el botón inferior del mismo mientras cierra el portapilas y siga pulsándolo durante 7 segundos.
+  BASE : Modo de vuelo: Con el audífono apagado y el botón de múltiples funciones apagado, mantenga presionado el botón inferior del audífono mientras cierra la puerta de la batería, y mantenga el botón presionado durante 7 segundos.
+  FT   : Modo de vuelo: Con el audífono se desactiva el botón de múltiples funciones, se mantiene el botón de empuje inferior en el audífono mientras se cierra la puerta de la batería y se mantiene el botón empujado durante 7 segundos.
+
+[9]
+  EN   : Open: Fully open the battery your ear canal.
+  REF  : E ncendido: cierre por completo rojo = oído derecho, azul = oído el portapilas.
+  BASE : Abierto: Abra completamente la batería de su canal auditivo.
+  FT   : Abierto: Abierto completamente la batería de tu canal auditivo.
+
+[10]
+  EN   : against your head and not When turning your hearing stick out.
+  REF  : L os audífonos pueden tardar Audífonos con cápsulas 5 segundos en encenderse.
+  BASE : Contra tu cabeza y no cuando gires tu palo de escucha.
+  FT   : contra tu cabeza y no cuando se gira tu oído.
+
+[11]
+  EN   : your ears between your thumb and index finger.
+  REF  : Abierto: abra por completo el la cabeza y no sobresalir.
+  BASE : entre su pulgar y su dedo índice.
+  FT   : tu oído entre tu pulgar y tu dedo índice.
+
+[12]
+  EN   : should be pointing in wire and remove the towards your ear canal with hearing aid from behind the hearing aid resting the ear.
+  REF  : retención, colóquela en el C uando encienda y apague los oído, de forma que se apoye audífonos mientras los lleva en la parte inferior de la en el oído, agarre la parte abertura del canal auditivo.
+  BASE : Debe apuntar hacia el cable y quitarlo hacia tu canal auditivo con el audífono desde detrás del audífono en reposo en la oreja.
+  FT   : Debe señalar en el cable y eliminar el canal auditivo hacia el oído con el audífono desde detrás del audífono, descansando el oído.
+
+[13]
+  EN   : The mold should fit into your ear snugly and comfortably.
+  REF  : I nserte cuidadosamente el molde a medida dentro del oído.
+  BASE : El molde debe ajustarse cómodamente y ajustadamente en tu oreja.
+  FT   : El molde debe ajustarse a su oído cómodamente y cómodamente.
+
+[14]
+  EN   : The serial number and year of manufacture are located inside the battery door.
+  REF  : El botón multifunción de los para indicar si se trata del audífono izquierdo audífonos permite controlar el volumen o derecho.
+  BASE : El número de serie y el año de fabricación se encuentran dentro de la puerta de la batería.
+  FT   : El número serial y el año de fabricación se localizan dentro de la puerta de la batería.
+
+[15]
+  EN   : You may also use the multi-function button to accept and reject calls to your paired mobile phone.
+  REF  : Si el audífono está emparejado con un teléfono con Bluetooth®, una pulsación corta en la parte superior o inferior del botón aceptará una llamada entrante y una pulsación larga rechazará una llamada entrante (véase el capítulo 10).
+  BASE : También puede utilizar el botón de múltiples funciones para aceptar y rechazar llamadas a su teléfono móvil emparejado.
+  FT   : También puede utilizar el botón multifuncional para aceptar y rechazar llamadas a su teléfono móvil emparejado.
+
+[16]
+  EN   : You may also use the optional Remote Control or Remote Plus app to control your hearing aids.
+  REF  : Asimismo, podrá usar de manera opcional el Remote Control o la aplicación Remote Plus para controlar sus audífonos.
+  BASE : También puede utilizar la aplicación de control remoto o Remote Plus opcional para controlar sus audífonos.
+  FT   : También puede utilizar la aplicación Remote Control o Remote Plus para controlar sus audífonos.
+
+[17]
+  EN   : These instructions describe the default multi-function button settings.
+  REF  : En estas instrucciones, se describen las funciones predeterminadas del botón multifunción.
+  BASE : Estas instrucciones describen los ajustes de botón de función múltiple por defecto.
+  FT   : Estas instrucciones describen los ajustes de botón de múltiples funciones por defecto.
+
+[18]
+  EN   : Your hearing care professional may change the functionality of the buttons.
+  REF  : Su profesional de la salud auditiva puede cambiar la funcionalidad de los botones.
+  BASE : Su profesional de cuidado auditivo puede cambiar la funcionalidad de los botones.
+  FT   : Su profesional de atención auditiva puede cambiar la funcionalidad de los botones.
+
+[19]
+  EN   : See your hearing care professional for more information.
+  REF  : Consulte a su profesional de la salud auditiva si desea más información.
+  BASE : Consulte a su profesional de cuidado auditivo para obtener más información.
+  FT   : Consulte a su profesional de atención auditiva para obtener más información.
+
+[20]
+  EN   : Bluetooth® is a registered trademark owned by the Bluetooth SIG, Inc.
+  REF  : Bluetooth® es una marca comercial registrada por Bluetooth SIG, Inc.
+  BASE : Bluetooth® es una marca registrada propiedad de la Bluetooth SIG, Inc.
+  FT   : Bluetooth® es una marca registrada propiedad de la SIG Bluetooth, Inc.
+
+[21]
+  EN   : hearing aid to decrease the volume Program setting Beeps As you change the volume, your hearing aids will beep.
+  REF  : Los audífonos emiten un pitido para • Presione la parte inferior del botón del indicarle en qué programa se encuentra.
+  BASE : Ajuste de programación Ajuste de volumen Bepés Mientras cambies el volumen, sus audífonos emitirán señales de aviso.
+  FT   : El dispositivo auditivo para disminuir el volumen del Programa de Beeps As cambia el volumen, sus audífonos beeps.
+
+[22]
+  EN   : speech in noise) 2 beeps Volume setting Beeps Program 3 (e.g.
+  REF  : audífono para bajar el volumen Ajustes de los programas Pitidos A medida que cambia el volumen, sus audífonos Programa 1 (p.
+  BASE : 2 pitos Volumen ajustado Pitos Programa 3 (por ejemplo,
+  FT   : La terapia con inhibidores de la PDE5 es un tratamiento eficaz para el tratamiento de la disfunción eréctil.
+
+[23]
+  EN   : telephone) 3 beeps Suggested volume level 1 beep Program 4 (e.g.
+  REF  : automático) Ajustes del volumen Pitidos Programa 2 (por ejemplo, habla 2 pitidos Nivel de volumen aconsejado 1 pitido en ruido) Programa 3 (p.
+  BASE : 3 pitos sugerido nivel de volumen 1 pito Programa 4 (por ejemplo,
+  FT   : 3 beeps Suggested volume level 1 beep Program 4 (e.g.
+
+[24]
+  EN   : After the low battery warning, sounds fingernail towards the open may not be as clear.
+  REF  : Esto garantizará que el portapilas L os audífonos están diseñados para generar un aviso de advertencia de pila baja cada cierre correctamente.
+  BASE : Después de la advertencia de la batería baja, los sonidos de uñas de uñas hacia el abierto pueden no ser tan claros.
+  FT   : Después de la advertencia de batería baja, el sonido de la uña hacia el abierto no es tan claro.
+
+[25]
+  EN   : This will ensure that the Your hearing aids are designed to generate a low battery warning every 30 minutes until you battery door closes properly.
+  REF  : • Extraiga las pilas y mantenga el portapilas Dispositivos con Bluetooth® abierto cuando no lleve puesto el audífono, especialmente cuando se vaya a dormir.
+  BASE : Esto garantizará que sus audífonos generen una advertencia de batería baja cada 30 minutos hasta que la puerta de la batería se cierre correctamente.
+  FT   : Esto garantizará que los audífonos de su oído estén diseñados para generar una advertencia de batería baja cada 30 minutos hasta que la puerta de la batería se cierre correctamente.
+
+[26]
+  EN   : connectivity options available for your hearing • To prolong battery life, remember to turn your aids.
+  REF  : *El TV Connector puede conectarse a cualquier fuente de audio como una televisión, un ordenador o un sistema de alta fidelidad.
+  BASE : opciones de conectividad disponibles para su audición • Para prolongar la vida de la batería, recuerde apagar sus ayudas.
+  FT   : opciones de conectividad disponibles para su audición • Para prolongar la vida de la batería, recuerde girar sus ayudas.
+
+[27]
+  EN   : hearing aids off when not in use, especially when asleep.
+  REF  : S incronización inicial Conexión con su teléfono móvil Una vez emparejados los audífonos con el teléfono 1.
+  BASE : Los audífonos fuera de uso cuando no se utilicen, especialmente cuando se duerme.
+  FT   : Los audífonos se desactivan cuando no están en uso, especialmente cuando duermen.
+
+[28]
+  EN   : Bluetooth® enabled devices • Remove the batteries and keep the battery door open while hearing aids are not being worn, especially when asleep.
+  REF  : E ntre en el menú de configuración de su teléfono para asegurarse de que la función Bluetooth® está móvil, estos volverán a conectarse de manera activada y busque los automática cuando se enciendan y se encuentren dispositivos con la función dentro del alcance.
+  BASE : Dispositivos con tecnología Bluetooth® • Retire las pilas y mantenga la puerta de la batería abierta mientras se usan audífonos, especialmente cuando se duerme.
+  FT   : Bluetooth® permite dispositivos • Retirar las baterías y mantener la puerta de la batería abierta mientras los audífonos no están siendo utilizados, especialmente cuando duermen.
+
+[29]
+  EN   : Please contact your hearing care professional to get a TV Connector, Remote Control, PartnerMic or Roger accessories.
+  REF  : Los audífonos el teléfono permanezca encendido y a una estarán en el modo de emparejamiento durante distancia inferior a 10 m (30 ft).
+  BASE : Por favor, comuníquese con su profesional de cuidado auditivo para obtener un TV Connector, un control remoto, un PartnerMic o accesorios de Roger.
+  FT   : Por favor, contacte con su profesional de atención auditiva para obtener un TV Connector, Remote Control, PartnerMic o Roger.
+
+[30]
+  EN   : O n your phone, go to your settings menu to phone, they will automatically connect again ensure Bluetooth® is on and to search for when your phone and hearing aids are turned Bluetooth enabled devices.
+  REF  : E n su teléfono móvil aparecerá una lista de los audífonos y el auricular de su teléfono móvil, dispositivos con la función de Bluetooth habilitada seleccione la fuente de audio que desee que se hayan encontrado.
+  BASE : En tu teléfono, ve a la menú de configuración de tu teléfono, se conectarán automáticamente cuando tu teléfono y audífonos estén encendidos y Bluetooth habilitado.
+  FT   : O n tu teléfono, vayan a tu menú de configuración para el teléfono, se conectará automáticamente para asegurar que Bluetooth® está en marcha y buscar cuando tu teléfono y los audífonos están activados.
+
+[31]
+  EN   : Y our phone will show a the speaker on your mobile phone, select the list of found Bluetooth enabled devices.
+  REF  : Si no está seguro sobre cómo de la lista para emparejar simultáneamente los hacer este cambio, consulte el manual de dos audífonos.
+  BASE : Su teléfono mostrará un hablante en su teléfono móvil, seleccione la lista de dispositivos Bluetooth habilitados.
+  FT   : Y nuestro teléfono mostrará al orador en su teléfono móvil, seleccionar la lista de dispositivos Bluetooth habilitados.
+
+[32]
+  EN   : will hear a melody when your phone has been successfully paired to your hearing aids.
+  REF  : Consulte la guía de su teléfono móvil para obtener instrucciones sobre el proceso de emparejamiento de un dispositivo Bluetooth con su teléfono.
+  BASE : escuchará una melodía cuando su teléfono se haya conectado con éxito a sus audífonos.
+  FT   : escuchar una melodía cuando su teléfono ha sido exitosamente emparejado a sus audífonos.
+
+[33]
+  EN   : It is only necessary to perform the pairing procedure once with each Bluetooth enabled phone.
+  REF  : Bluetooth® es una marca comercial registrada por Bluetooth SIG, Inc.
+  BASE : Es necesario realizar el procedimiento de emparejamiento una sola vez con cada teléfono con Bluetooth habilitado.
+  FT   : Es necesario realizar el procedimiento de emparejamiento una vez con cada teléfono Bluetooth habilitado.
+
+[34]
+  EN   : Consult your phone user guide for instructions on pairing a Bluetooth device with your phone.
+  REF  : Cuando se hayan emparejado marcado directamente por los audífonos.
+  BASE : Consulte el manual del usuario de su teléfono para obtener instrucciones sobre cómo emparejar un dispositivo Bluetooth con su teléfono.
+  FT   : Consulte su guía de usuario de teléfono para instrucciones sobre la unión de un dispositivo Bluetooth con su teléfono.
+
+[35]
+  EN   : Your voice is picked up by the connected to a phone, you will hear notifications, hearing aid microphones and transmitted to the incoming call notification and the caller’s voice phone.
+  REF  : Las llama- No es necesario que se acerque el teléfono móvil das telefónicas “por manos libres”, es decir, que la voz a la boca, los audífonos transmitirán su voz es captada por los micrófonos de los audífonos y se al teléfono móvil.
+  BASE : Su voz se recoge con el conectado a un teléfono, escuchará las notificaciones, micrófonos de audífono y transmitido a la notificación de llamada entrante y la voz del llamante teléfono.
+  FT   : Su voz es recogida por el conectado a un teléfono, escuchará las notificaciones, los microfonos de ayuda auditiva y transmitidas a la notificación de llamada de entrada y el teléfono de la llamada.
+
+[36]
+  EN   : ring tone or or lower part of the multi-function button on the voice notification).
+  REF  : de 2 segundos) o directamente en el teléfono.
+  BASE : tono de timbre o parte inferior de la botón de múltiples funciones en la notificación de voz).
+  FT   : tono de anillo o parte inferior del botón multifuncional en la notificación de voz).
+
+[37]
+  EN   : battery door, and keep the button pushed down for 7 seconds.
+  REF  : Cuando viaje en mediante Bluetooth y desactivar el modo avión: avión, tenga en cuenta que algunas aerolíneas 1.
+  BASE : puerta de la batería, y mantenga el botón presionado durante 7 segundos.
+  FT   : La puerta de la batería y mantener el botón empujado durante 7 segundos.
+
+[38]
+  EN   : Please find phone compatibility details on: intended, unless otherwise noted in these user guides.
+  REF  : M antenga pulsado el pulsador inferior del audífono cuando esté apagado mientras cierra el portapilas y siga 2.
+  BASE : Por favor, encuentre los detalles de compatibilidad de teléfono en:  a menos que se indique lo contrario en estas guías del usuario.
+  FT   : Por favor, encuentre los detalles de compatibilidad telefónica: destinados, a menos que se indique lo contrario en estas guías de usuarios.
+
+[39]
+  EN   : Please ensure to use, transport and store html the hearing aids according to the following conditions: Use Transport Storage Please find the instruction for use on https://www.
+  REF  : Encontrará los detalles de la compatibilidad del teléfono en: Asegúrese de utilizar, transportar y almacenar https://www.unitron.com/global/en_us/help-and- los audífonos de acuerdo con las siguientes support/bluetooth-support/phone-compatibility.
+  BASE : Por favor, asegúrese de usar, transportar y almacenar los audífonos de acuerdo con las siguientes condiciones: Uso Transporte Almacenamiento Por favor, encuentre las instrucciones de uso en https://www.
+  FT   : Por favor, asegúrese de utilizar, transportar y almacenar el html los audífonos según las siguientes condiciones: Uso de Transporte de Almacenamiento Por favor, encuentre la instrucción para el uso en https://www.
+
+[40]
+  EN   : iOS® is a registered trademark or trademark of Cisco Systems, Inc.
+  REF  : iOS® es una marca comercial registrada o una marca comercial de Cisco Systems, Inc.
+  BASE : iOS® es una marca registrada o marca de Cisco Systems, Inc.
+  FT   : iOS® es una marca registrada o marca de Cisco Systems, Inc.
+
+[41]
+  EN   : The devices are expected to a shower, swimming or other water activities.
+  REF  : puestos para ducharse, nadar ni practicar otras Periodo de servicio técnico comercial: actividades acuáticas.
+  BASE : Los dispositivos están diseñados para un baño, natación o otras actividades de agua.
+  FT   : Los dispositivos se esperan a una ducha, natación o otras actividades acuáticas.
+
+[42]
+  EN   : These hearing aids should never be exposed Commercial service period: to chlorinated water, soap, salt water or other Routine and diligent care of your hearing aids liquids with a chemical content.
+  REF  : Los audífonos no deben el cuidado rutinario y diligente de los audífonos exponerse nunca a agua clorada, jabón, agua contribuirá a un rendimiento sobresaliente durante salada ni a otros líquidos con contenido químico.
+  BASE : Estos audífonos nunca deben ser expuestos a agua clorada, jabón, agua salada o otros líquidos con contenido químico.
+  FT   : Estos audífonos nunca deben ser expuestos al servicio comercial: al agua clorada, al jabón, al agua salada o a otros líquidos de rutina y cuidados diligentemente de sus audífonos con contenido químico.
+
+[43]
+  EN   : repair service period after the respective hearing aid, charger and essential components have been phased out of the manufacturer’s product portfoio.
+  REF  : en busca de cerumen y depósitos de humedad, y limpie las superficies con un paño que no suelte Los audífonos son resistentes al agua, al sudor pelusa.
+  BASE : periodo de servicio de reparación después de que el respectivo audífono, cargador y componentes esenciales hayan sido eliminados del portafolio de productos del fabricante.
+  FT   : El período de reparación del servicio después del respectivo audífono, cargador y componentes esenciales se han eliminado del puerto del producto del fabricante.
+
+[44]
+  EN   : moisture deposits and clean the surfaces with a lint-free cloth.
+  REF  : No use nunca agentes limpiadores como y al polvo en las condiciones siguientes: detergentes domésticos, jabón, etc.
+  BASE : Deposita la humedad y limpia las superficies con un paño sin lana.
+  FT   : Los depósitos de humedad y las superficies limpias con un paño libre de lino.
+
+[45]
+  EN   : Never use cleaning Your hearing aids are resistant to water, sweat agents such as household detergents, soap, and dust under the following conditions: etc.
+  REF  : • Después de la exposición al agua, al sudor Si necesita limpiar el audífono de forma exhaustiva, o al polvo, el audífono debe limpiarse pídale consejo e información a su profesional de la y secarse.
+  BASE : Nunca useis limpiadores  Sus audífonos son resistentes a agua, agentes de sudor como detergentes de la casa, jabón, y polvo bajo las siguientes condiciones: etc.
+  FT   : Nunca usen limpieza Sus audífonos son resistentes al agua, a los agentes sudorosos como los detergentes domésticos, el jabón y el polvo bajo las siguientes condiciones: etc.
+
+[46]
+  EN   : For more in-depth maintenance instructions, please see your hearing care professional.
+  REF  : El audífono está equipado con una protección contra el cerumen para proteger el auricular frente a daños causados por el cerumen.
+  BASE : Para obtener instrucciones de mantenimiento más detalladas, por favor consulte a su profesional de cuidado auditivo.
+  FT   : Para una mayor profundidad de las instrucciones de mantenimiento, por favor, consulte a su profesional de atención auditiva.
+
+[47]
+  EN   : Your hearing aid is equipped with an earwax protection to protect the speaker from earwax damage.
+  REF  : L impie el auricular con un Compruebe el protector de cerumen con regularidad paño que no suelte pelusa.
+  BASE : Su audífono está equipado con una protección contra el cera para proteger el altavoz de daños por cera.
+  FT   : Su audífono está equipado con una protección de cera para proteger al hablante del daño de la cera.
+
+[48]
+  EN   : The earwax protection should be replaced every four to eight weeks on a regular receiver.
+  REF  : La protección contra el cerumen debe reemplazarse cada cuatro a ocho semanas en un auricular normal.
+  BASE : La protección de cera auricular debe ser reemplazada cada cuatro a ocho semanas en un receptor regular.
+  FT   : La protección de la cera debe ser sustituida cada cuatro a ocho semanas en un receptor regular.
+
+[49]
+  EN   : Removing the earpiece or dome from the speaker 1.
+  REF  : Extracción del acoplador acústico o cápsula del auricular 1.
+  BASE : 1. Retirar el auricular o domo del altavoz.
+  FT   : Retirar el oído o el domo del hablante 1.
+
+[50]
+  EN   : S lide the earpiece or dome protector carefully insert the over the speaker sound speaker into the free opening 2.
+  REF  : R etire el acoplador acústico o la cápsula del auricular sosteniendo el auricular con una mano y el acoplador acústico o cápsula con la otra.
+  BASE : S lide la protección del auricular o el protector de la cúpula con cuidado insertar el sobre el altavoz sonido altavoz en la apertura libre 2.
+  FT   : S lide el protector de la oreja o el domo cuidadosamente inserta el sonido del hablante sobre el hablante libre en la apertura 2.
+
+[51]
+  EN   : This warranty does not include any services performed by a International warranty hearing care professional in their office.
+  REF  : Después del clic, verá que la abertura situada abajo está vacía y el nuevo protector de cerumen se encuentra ya dentro del auricular.
+  BASE : Esta garantía no incluye ningún servicio realizado por un profesional de cuidado auditivo internacional en su oficina.
+  FT   : Esta garantía no incluye ningún servicio realizado por un profesional de la atención auditiva internacional en su oficina.
+
+[52]
+  EN   : Sonova AG offers a one year limited international Serial numbers warranty, valid from the date of purchase.
+  REF  : Los daños adquirió sus audífonos acerca de las causados por terceros o centros de servicio condiciones de la garantía local.
+  BASE : Sonova AG ofrece una garantía de un año de serie internacional, válida desde la fecha de compra.
+  FT   : Sonova AG ofrece una garantía de números seriados internacionales de un año, válida a partir de la fecha de compra.
+
+[53]
+  EN   : Hereby, Sonova AG declares that this product meets the requirements of the Medical Devices Regulation MDR2017/745 and Notice 3 complies with Radio Equipment Directive 2014/53/EU.
+  REF  : Profesional de salud auditiva autorizado (sello/ firma): Su garantía internacional no afecta a los derechos legales que pueda tener según la legislación nacional aplicable que rige la venta de productos de consumo.
+  BASE : Por lo tanto, Sonova AG declara que este producto cumple con los requisitos de la Regulación de Dispositivos Médicos MDR2017/745 y el Nota 3 cumple con la Directiva de Equipos de Radio 2014/53/EU.
+  FT   : Por lo tanto, Sonova AG declara que este producto cumple con los requisitos de la Regulación de Dispositivos Médicos MDR2017/745 y el Aviso 3 cumple con la Directiva 2014/53/EU de Equipos de Radio.
+
+[54]
+  EN   : If this device arrangements for the legal sale in New Zealand and does cause harmful interference to radio or television reception, Australia.
+  REF  : Dichos límites garantizan una protección razonable Comunicaciones y Medios de Información (ACMA, del inglés frente a las interferencias dañinas en un entorno doméstico.
+  BASE : Si este dispositivo se dispone para la venta legal en Nueva Zelanda y causa interferencia perjudicial a la recepción de radio o televisión, Australia.
+  FT   : Si este dispositivo dispone de arreglos legales para la venta en Nueva Zelanda y causa interferencia perjudicial a la recepción de radio o televisión, Australia.
+
+[55]
+  EN   : Range ~1m The numbers after the CE symbol correspond to the code of certified institutions that were consulted under the Bluetooth 4.2 Dual-Mode above-mentioned regulation and directives.
+  REF  : Perfiles admitidos HFP (perfil de manos libres), A2DP Este símbolo indica que los productos descritos en estas instrucciones de uso se adhieren a los requisitos Cumplimiento normativo con los estándares de emisión establecidos para un componente de aplicación del tipo B de EN 60601-1.
+  BASE : ~1m Los números después del símbolo CE corresponden al código de instituciones certificadas que se consultaron bajo la regulación y directrices Bluetooth 4.2 Dual-Mode mencionada anteriormente.
+  FT   : Rango ~1m Los números después del símbolo CE corresponden al código de instituciones certificadas que fueron consultadas bajo la regulación y directrices Bluetooth 4.2 Dual-Mode.
+
+[56]
+  EN   : The surface of Emission standards EN 60601-1-2 the hearing aid is specified as applied part of Type B.
+  REF  : Estándares de inmunidad EN 60601-1-2 Indica la fecha de fabricación del producto sanitario.
+  BASE : La superficie de las normas de emisión EN 60601-1-2 del audífono está especificada como parte de tipo B.
+  FT   : La superficie de los estándares de emisión EN 60601-1-2 se especifica como parte aplicada del tipo B.
+
+[57]
+  EN   : Immunity standards EN 60601-1-2 Indicates the date when the medical device was IEC 60601-1-2 manufactured.
+  REF  : Indica el número de serie del fabricante para que se pueda Este símbolo indica que es importante que el usuario identificar un producto sanitario específico.
+  BASE : Estándares de inmunidad EN 60601-1-2 Indica la fecha en que el dispositivo médico fue IEC 60601-1-2 fabricado.
+  FT   : Los estándares de inmunidad EN 60601-1-2 indican la fecha en que el dispositivo médico fue fabricado IEC 60601-1-2.
+
+[58]
+  EN   : Indicates the Authorized representative in the European Community.
+  REF  : preste atención a los avisos de advertencia expuestos en esta guía de usuario.
+  BASE : Indica al representante autorizado en la Comunidad Europea.
+  FT   : Indica el representante autorizado en la Comunidad Europea.
+
+[59]
+  EN   : Indicates that the device is a medical device.
+  REF  : Indica que el dispositivo es un producto sanitario.
+  BASE : Indica que el dispositivo es un dispositivo médico.
+  FT   : Indica que el dispositivo es un dispositivo médico.
+
+[60]
+  EN   : IP68 rating indi- by the US Federal Communications Commission.
+  REF  : Clasificación IP = Clasificación de protección contra entrada.
+  BASE : La clasificación IP68 indica- por la Comisión Federal de Comunicaciones de los Estados Unidos.
+  FT   : La puntuación IP68 indi- por la Comisión Federal de Comunicaciones de los Estados Unidos.
+
+[61]
+  EN   : cates that the hearing aid is water and dust resistant.
+  REF  : La clasificación IP68 indica que el audífono Indica el cumplimiento por parte del dispositivo de las es resistente al agua y al polvo.
+  BASE : Sugiere que el audífono es resistente al agua y al polvo.
+  FT   : cates que el audífono es resistente al agua y al polvo.
+
+[62]
+  EN   : The Bluetooth® word mark and logos are registered trademarks owned by Bluetooth SIG, Inc.
+  REF  : La marca Bluetooth® y los logotipos son marcas comerciales registradas por Bluetooth SIG, Inc.
+  BASE : La marca de palabra Bluetooth® y los logotipos son marcas registradas propiedad de Bluetooth SIG, Inc.
+  FT   : La marca de Bluetooth y los logos son marcas registradas propiedad de Bluetooth SIG, Inc.
+
+[63]
+  EN   : Other trademarks and trade names are those of their device can be safely exposed.
+  REF  : Cualquier uso que Sonova realice de dichas marcas será bajo Indica el intervalo de humedad al que el producto licencia.
+  BASE : Otros marcas y nombres de comercio son de sus dispositivos que pueden ser seguramente expuestos.
+  FT   : Otros nombres comerciales y nombres comerciales son aquellos de su dispositivo pueden ser seguramente expuestos.
+
+[64]
+  EN   : This symbol indicates that this is a Prescription Device.
+  REF  : Otras marcas y nombres comerciales pertenecen sanitario puede exponerse con seguridad.
+  BASE : Este símbolo indica que este es un Dispositivo con Receta.
+  FT   : Este símbolo indica que este es un dispositivo de prescripción.
+
+[65]
+  EN   : Indicates the range of atmospheric pressure to which CAUTION: U.S.
+  REF  : Este símbolo indica que se trata de un Dispositivo Indica el intervalo de presión atmosférica al que el de prescripción.
+  BASE : Indica la gama de presión atmosférica a la que CAUTION: U.S.
+  FT   : Indica el rango de presión atmosférica a la que se aplica CAUTION: U.S.
+
+[66]
+  EN   : Federal law restricts this device to the medical device can be safely exposed.
+  REF  : restringe la venta de este dispositivo a médicos o profesionales de salud auditiva (sólo para EE.
+  BASE : La ley federal restringe este dispositivo a que el dispositivo médico pueda ser expuesto de manera segura.
+  FT   : La ley federal restringe este dispositivo al dispositivo médico puede ser expuesto con seguridad.
+
+[67]
+  EN   : Indicates the manufacturer’s serial number so that a specific medical device can be identified.
+  REF  : G uía para la resolución Durante el transporte, mantener seco.
+  BASE : Indica el número de serie del fabricante para que un dispositivo médico específico pueda ser identificado.
+  FT   : Indica el número serial del fabricante para que se pueda identificar un dispositivo médico específico.
+
+[68]
+  EN   : Troubleshooting guide The symbol with the crossed-out garbage bin is to make you aware that this device as well as batteries may not be thrown away as normal household waste.
+  REF  : de problemas Causa Posible solución El símbolo del cubo de basura tachado es para que sea consciente de que este dispositivo, así como sus Problema: no se escucha el sonido baterías, no puede desecharse como basura normal.
+  BASE : Guía de depuración El símbolo con la basura con la cruz roja es para hacerle consciente de que este dispositivo, así como las pilas, no deben ser arrojados como residuos domésticos normales.
+  FT   : Guía de Troubleshooting El símbolo con el contenedor de basura cruzado es hacer consciente que este dispositivo, así como las baterías, no se pueden tirar como residuos domésticos normales.
+
+[69]
+  EN   : Please Cause Possible remedy dispose of old or unused devices, at waste disposal sites intended for electronic waste, or give your device Issue: no sound to your hearing care professional for disposal.
+  REF  : No está encendido Encienda el audífono Deshágase de los dispositivos antiguos o no utilizados en los sitios de disposición de residuos destinados Batería baja/agotada Cambie la pila a los desechos electrónicos, o entregue el dispositivo a su profesional de salud auditiva para su eliminación.
+  BASE : Por favor, Cause Possible remedy elimine dispositivos viejos o no utilizados, en sitios de eliminación de residuos destinados a residuos electrónicos, o dé su dispositivo Issue: no sonido a su profesional de cuidado auditivo para su eliminación.
+  FT   : Por favor, Cause Possible remedy dispose of old or unused devices, at waste disposal sites intended for electronic waste, or give your device Issue: no sound to your hearing care professional for disposal.
+
+[70]
+  EN   : professional Symbols applicable to the European power supply only Battery upside down Insert battery according Power supply with double isolation.
+  REF  : Moldes a medida/ Limpie los moldes a medida/ Símbolos aplicables únicamente a la fuente cápsulas obstruidos cápsulas.
+  BASE : símbolos profesionales aplicables solo a la alimentación europea batería hacia arriba insertar batería según alimentación con aislamiento doble.
+  FT   : Los símbolos profesionales aplicables a la oferta de poder europeo sólo batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería de batería
+
+[71]
+  EN   : to battery symbol inside battery door Custom molds/domes Clean custom molds/domes.
+  REF  : Consulte “Cuidado de alimentación europea con cerumen y mantenimiento”.
+  BASE : símbolo de batería dentro de la puerta de la batería Mueve los moldes/domas personalizados. Limpia los moldes/domas personalizados.
+  FT   : a símbolo de batería dentro de la puerta de batería moldes/domes de limpieza moldes/domes.
+
+[72]
+  EN   : limitations-of-use information on the following pages before using your hearing aid.
+  REF  : Moldes a medida/ Consulte “Cómo ponerse cápsulas no los audífonos en los oídos”.
+  BASE : información sobre las limitaciones de uso en las siguientes páginas antes de usar su audífono.
+  FT   : información de limitaciones de uso en las siguientes páginas antes de utilizar el audífono.
+
+[73]
+  EN   : (This hearing loss in one or both ears within the provision is required only for those hearing aids previous 90 days; with a maximum sound pressure capability • Acute or chronic dizziness; greater than 132 dB).
+  REF  : • Apariencia anómala del tímpano y el canal • La afección no ha empeorado ni cambiado auditivo como, por ejemplo: significativamente desde la investigación y/o - I nflamación del canal auditivo externo el tratamiento anteriores.
+  BASE : (Esta pérdida auditiva en una o ambas orejas dentro de la provisión es requerida solo para aquellos audífonos anteriores a 90 días; con una capacidad de presión de sonido máxima • vértigo agudo o crónico; mayor de 132 dB).
+  FT   : (Esta pérdida auditiva en una o ambas orejas dentro de la provisión es necesaria sólo para los audífonos previos a 90 días; con una capacidad máxima de presión sonora • mareo agudo o crónico; mayor de 132 dB).
+
+[74]
+  EN   : considerations about the patient’s best Conventional hearing aids have the potential interests have been made.
+  REF  : El uso de un audífono es solo una parte de la habilitación auditiva y es posible a su portabilidad, también es posible su uso que deba complementarse con capacitación en centros de atención sanitaria profesionales, auditiva y formación en la lectura de labios.
+  BASE : Consideraciones sobre los mejores intereses del paciente Con los audífonos convencionales, los intereses potenciales han sido considerados.
+  FT   : Se han realizado consideraciones sobre los mejores audífonos convencionales del paciente, que tienen potencialmente intereses.
+
+[75]
+  EN   : to expose patients to higher levels of sound 54 55 exposure, which might result in threshold shifts Important information in the frequency range affected by acoustic H earing aids will not restore normal hearing and trauma.
+  REF  : La retroalimentación, la mala calidad del sonido, los sonidos demasiado fuertes o demasiado suaves, la adaptación inadecuada o los problemas al masticar o tragar pueden resolverse o mejorarse durante el proceso de ajuste en el procedimiento de adaptación por parte de su profesional de salud auditiva.
+  BASE : 54 55 exposición a los pacientes a niveles más altos de sonido, que podría resultar en desplazamientos de umbral Importante información en el rango de frecuencia afectado por el trauma acústico de la audición los audífonos no restaurarán la audición normal.
+  FT   : Exponer a los pacientes a niveles más altos de sonido 54 55 exposición, lo que podría resultar en cambios de umbral importantes. Información importante en el rango de frecuencia afectada por los auxiliares acústicos de la oreja H no restaurará el oído normal y el trauma.
+
+[76]
+  EN   : will not prevent or improve a hearing impairment The hearing aid is suitable for the home resulting from organic conditions.
+  REF  : Cualquier incidente grave que se haya producido en relación con el dispositivo debe notificarse al representante del fabricante y a la autoridad competente de la zona geográfica de residencia.
+  BASE : No previene ni mejora una sordera. El audífono es adecuado para el hogar debido a condiciones orgánicas.
+  FT   : No prevenir ni mejorar una alteración auditiva El audífono es adecuado para el hogar resultante de condiciones orgánicas.
+
+[77]
+  EN   : The use of a hearing aid is only part of hearing habilitation and may need to be supplemented by auditory training and instruction in lipreading.
+  REF  : Cuando viaje persona en avión, compruebe si la compañía requiere • el deterioro grave temporal o permanente que cambie sus audífonos al modo avión.
+  BASE : El uso de un audífono es solo parte de la habilitación auditiva y puede necesitar ser complementado por entrenamiento auditivo e instrucción en lectura de labios.
+  FT   : El uso de un audífono es sólo parte de la habilitación auditiva y puede necesitar ser complementado por entrenamiento auditivo e instrucción en lectura de labios.
+
+[78]
+  EN   : F eedback, poor sound quality, too loud or too soft sounds, inadequate fitting or problems when chewing or swallowing, can be resolved or improved during the fine-tuning process at the fitting procedure by your hearing care professional.
+  REF  : del estado de salud de un paciente, usuario Los audífonos (especialmente programados u otra persona para cada tipo de pérdida auditiva) solo deben • una grave amenaza para la salud pública ser usados por la persona para la que están diseñados.
+  BASE : La retroalimentación, la mala calidad del sonido, los sonidos demasiado fuertes o demasiado bajos, la mala adaptación o los problemas al masticar o tragar, pueden resolverse o mejorarse durante el proceso de ajuste fino en la prueba de ajuste por parte de su profesional de cuidado auditivo.
+  FT   : F eedback, pobre calidad de sonido, sonidos demasiado fuertes o demasiado suaves, ajuste inadecuado o problemas al masticar o deglución, pueden ser resueltos o mejorados durante el proceso de afinamiento en el procedimiento de ajuste por el profesional de la atención auditiva.
+
+[79]
+  EN   : person’s state of health T he hearing aids (specially programmed • a serious public health threat for each hearing loss) must only be used To report an unexpected operation or event, please by the intended person.
+  REF  : No utilice los audífonos en zonas con riesgo de explosión (zonas mineras e industriales con riesgo de explosión, ambientes ricos en oxígeno o zonas donde se manejen anestésicos inflamables) ni donde se prohíban los equipos electrónicos.
+  BASE : El estado de salud de la persona Los audífonos (especialmente programados • una seria amenaza para la salud pública para cada pérdida auditiva) deben ser utilizados solo por la persona destinada. Para informar un operación o evento inesperado, por favor.
+  FT   : El estado de salud de la persona T los audífonos (especialmente programados • una amenaza grave para la salud pública para cada pérdida auditiva) sólo deben ser utilizados para informar una operación o evento inesperado, por la persona destinada.
+
+[80]
+  EN   : They should not contact the manufacturer or a representative.
+  REF  : El dispositivo no cuenta con la certificación ATEX.
+  BASE : No deben contactar al fabricante o a un representante.
+  FT   : No deben contactar con el fabricante o un representante.
+
+[81]
+  EN   : be used by any other person as they could damage hearing C hanges or modifications to the hearing aid that were not explicitly approved by Sonova AG are not permitted.
+  REF  : No deje que niños ni personas con si está inflamada o si se produce irritación diversidad funcional cognitiva lleven este de la piel y acumulación acelerada de cerumen, audífono sin supervisión.
+  BASE : Debe ser utilizado por cualquier otra persona como podría dañar el oído C ambios o modificaciones a la audífono que no fueron explícitamente aprobados por Sonova AG no están permitidos.
+  FT   : No se permite el uso de cualquier otra persona, ya que podría dañar el oído C hanges o modificaciones al audífono que no fueron explícitamente aprobadas por Sonova AG.
+
+[82]
+  EN   : hearing aid or its parts can cause choking!
+  REF  : distancia mínima de 15 cm (6 pulgadas) del implante activo.
+  BASE : El audífono o sus partes pueden causar asfixia!
+  FT   : El uso de un audífono o sus partes puede causar asfixia!
+
+[83]
+  EN   : pacemakers, defibrillators, etc.): that the dome does get stuck in your ear canal, it is strongly recommended to see a • Keep the wireless hearing aid at physician for safe removal.
+  REF  : Tenga o ruidos de advertencia que vienen de detrás en cuenta que dicha interferencia también (por ejemplo, coches) pueden ser parcial puede deberse a líneas eléctricas, descargas o totalmente suprimidos.
+  BASE : • que el domo se quede atascado en su canal auditivo, se recomienda fuertemente que vea a un médico para la extracción segura.
+  FT   : Los marcapasos, los desfibriladores, etc.): que el domo se queda en el canal auditivo, se recomienda fuertemente ver un • Mantener el audífono inalámbrico en el médico para la remoción segura.
+
+[84]
+  EN   : Please note that interference can also cars, are partially or entirely suppressed.
+  REF  : cognitiva hagan de este dispositivo debe estar supervisado en todo momento con el fin de garantizar la seguridad de estos.
+  BASE : Tenga en cuenta que la interferencia también puede afectar a los coches, que pueden estar parcialmente o completamente suprimidos.
+  FT   : Tenga en cuenta que la interferencia también puede ser coches, parcial o totalmente suprimidos.
+
+[85]
+  EN   : U se of this equipment adjacent to or Otherwise, degradation of the performance stacked with other equipment should be of this equipment could result.
+  REF  : De lo Mantenga una distancia aproximada de 5 cm contrario, podría producirse una degradación (2 pulgadas) o superior entre los imanes de la eficacia de este equipo.
+  BASE : El uso de este equipo junto a o cerca de otros equipos puede provocar la degradación de su rendimiento.
+  FT   : El uso de este equipo adyacente a o de otra manera, la degradación del desempeño estocado con otros equipos debe ser de este equipo podría resultar.
+
+[86]
+  EN   : avoided because it could result in improper operation.
+  REF  : y la ubicación de la válvula de derivación Los audífonos no deben ser adaptados con implantada.
+  BASE : evitada porque podría resultar en una operación inadecuada.
+  FT   : Evitada porque podría resultar en una operación inadecuada.
+
+[87]
+  EN   : If such use is necessary, this H earing aids should not be fitted with equipment and the other equipment domes / wax protection systems when should be observed to verify that they are used by clients with perforated eardrums, operating normally.
+  REF  : cápsulas/sistemas de protección de cerumen El uso de este equipo no deberá utilizarse cuando los utilicen pacientes con tímpanos situado junto a otro equipo o apilado perforados, conductos auditivos inflamados sobre este, ya que puede provocar un o cavidades del oído medio expuestas.
+  BASE : Si tal uso es necesario, estos audífonos no deben ser ajustados con equipo y los otros sistemas de protección de cera / domos cuando se deben observar para verificar que se usan por clientes con tímpanos perforados, que operan normalmente.
+  FT   : Si tal uso es necesario, estas ayudas de oído H no deben ser adaptadas con equipo y los otros sistemas de protección de domos / cera cuando se debe observar para verificar que se utilizan normalmente por los clientes con perforación.
+
+[88]
+  EN   : other than those specified or provided In the unlikely case that any part of this by the manufacturer of this equipment product should remain in the ear canal, it could result in increased electromagnetic is strongly recommended to see a medical emissions or decreased electromagnetic specialist for safe removal.
+  REF  : improbable caso de que alguna parte de este El uso de accesorios, transductores producto permanezca en el canal auditivo, y cables diferentes a los especificados se recomienda encarecidamente acudir o proporcionados por el fabricante de a un médico especialista para una extracción este equipo podría ocasionar un aumento segura.
+  BASE : excepto los especificados o proporcionados En el caso poco probable de que cualquier parte de este producto de este equipo permanezca en el canal auditivo, podría resultar en emisiones electromagnéticas aumentadas o disminuidas se recomienda fuertemente ver a un especialista médico para la eliminación segura.
+  FT   : Además de lo especificado o proporcionado, en el caso improbable de que cualquier parte de este por el fabricante de este producto de equipo permanezca en el canal auditivo, podría resultar en una mayor remoción electromagnética.
+
+[89]
+  EN   : immunity of this equipment and result in improper operation A void strong physical impacts to the ear when wearing a hearing aid with P ortable RF communications equipment customized earpiece.
+  REF  : de las emisiones electromagnéticas o un descenso de la inmunidad electromagnética de este equipo y, por consiguiente, provocar un funcionamiento incorrecto.
+  BASE : Inmunidad de este equipo y resulta en una operación inadecuada A evitar impactos físicos fuertes en la oreja al usar un audífono con equipo de comunicaciones RF portátil con pieza de oreja personalizada.
+  FT   : La inmunidad de este equipo y el resultado en la operación inadecuada A produce impactos físicos fuertes en el oído cuando se usa un audífono con equipo de comunicación de RF portátil personalizado.
+
+[90]
+  EN   : during sports) may cause any part of the hearing aids, including 62 63 the customized earpiece to break.
+  REF  : Un fuerte impacto físico capítulo 4) y consulte a su audioprotesista.
+  BASE : durante el deporte) puede causar cualquier parte de los audífonos, incluyendo 62 63 el audífono personalizado a que rompa.
+  FT   : Durante el deporte) puede causar cualquier parte de los audífonos, incluyendo 62 63 el audífono personalizado para romper.
+
+[91]
+  EN   : If you suspect that a battery was may lead to perforation of the ear canal or swallowed or placed inside any part of the eardrum body, immediately consult your physician without any delay!
+  REF  : en el oído (por ejemplo, durante la práctica ADVERTENCIA: las pilas del dispositivo son de deportes) puede provocar la rotura del peligrosas y pueden causar lesiones graves acoplador acústico a medida.
+  BASE : Si sospechas que una batería puede causar una perforación del canal auditivo o que se haya tragado o colocado en cualquier parte del cuerpo del tímpano, consulta inmediatamente a tu médico sin demora alguna!
+  FT   : Si sospechas que una batería puede llevar a la perforación del canal auditivo o a la ingesta o colocación dentro de cualquier parte del cuerpo del tímpano, consulte inmediatamente a su médico sin demora!
+
+[92]
+  EN   : A fter mechanical stress or shock to the customized earpiece, please ensure that it is intact before placing it in the ear.
+  REF  : Esto puede si se ingieren o se colocan dentro de cualquier provocar la perforación del canal auditivo parte del cuerpo, con independencia de que o del tímpano.
+  BASE : Después de someter el auricular personalizado a estrés mecánico o choque, asegúrese de que esté intacto antes de colocarlo en la oreja.
+  FT   : Un estres mecánico o choque a la oreja personalizada, por favor asegúrese de que esté intacto antes de colocarlo en la oreja.
+
+[93]
+  EN   : WARNING: Device batteries are hazardous and can cause serious injuries if they are swallowed or placed inside any part of the body, whether the battery is used or new!
+  REF  : Mantenga el Tras una tensión mecánica o un golpe en el producto fuera del alcance de niños, personas acoplador acústico a medida, compruebe que con diversidad funcional cognitiva o mascotas.
+  BASE : ADVERTENCIA: Las baterías del dispositivo son peligrosas y pueden causar lesiones graves si se tragan o se colocan en cualquier parte del cuerpo, ya sea que la batería esté usada o nueva!
+  FT   : ADVERTENCIA: Las baterías de dispositivos son peligrosas y pueden causar lesiones graves si son tragadas o colocadas dentro de cualquier parte del cuerpo, ya sea que se utilice la batería o nueva!
+
+[94]
+  EN   : W hen you are not using your hearing aid, These hearing aids are not specifically leave the battery door open so that any designed for extended periods of water moisture can evaporate.
+  REF  : De esta forma, se evita actividades normales y la exposición ocasional que la cápsula se separe del tubo al insertar accidental a condiciones extremas.
+  BASE : Cuando no esté utilizando su audífono, estos audífonos no están diseñados para dejar la puerta de la batería abierta de modo que cualquier humedad del agua pueda evaporarse.
+  FT   : W cuando no se utiliza el audífono, estos audífonos no dejan específicamente la puerta de la batería abierta para que cualquier diseñado para periodos prolongados de humedad del agua pueda evaporar.
+
+[95]
+  EN   : A lways use new batteries for your hearing N ever wash the microphone inputs.
+  REF  : Asegúrese de secar siempre comple- mientras nada o se baña.
+  BASE : Siempre usa pilas nuevas para tu audífono.  Nunca laves los entradas del micrófono.
+  FT   : Siempre usa nuevas baterías para su audición N nunca lava los inputs del microfono.
+
+[96]
+  EN   : You can return used batteries P rotect your hearing aid from heat and to your hearing care professional.
+  REF  : este tipo, ya que contiene piezas electrónicas Utilice siempre pilas nuevas para su audífono.
+  BASE : Puede devolver las pilas usadas  P rotecte su audífono del calor y a su profesional de cuidado auditivo.
+  FT   : Puedes devolver las baterías utilizadas P rotect tu audífono de calor y a tu profesional de atención auditiva.
+
+[97]
+  EN   : not use silver-zinc or Li-ion (lithium-ion) 66 67 rechargeable batteries as these may cause Mobile phone compatibility rating severe damage to your hearing aids.
+  REF  : Nunca utilice un microondas ni Es posible que se dañen si caen sobre una otros aparatos de calefacción para secar el superficie dura.
+  BASE : no usar baterías recargables de plata-zinc o Li-ion (baterías de iones de litio) 66 67 ya que estas pueden causar daños graves a sus audífonos.
+  FT   : No utilizar baterías de plata-zinc o Li-ion (lithium-ion) 66 67 recargables, ya que estas pueden causar daños graves a los audífonos.
+
+[98]
+  EN   : Remove and keep them Communications Devices and Hearing Aids), the outside the examination room/area before compatibility of particular hearing aids and a mobile phone can be predicted by adding the rating for the undergoing: hearing aid immunity to the rating for the mobile • Medical or dental examination with X-ray phone emissions.
+  REF  : móviles Algunos usuarios de audífonos han comunicado Las revisiones médicas o dentales especiales, escuchar zumbidos en sus audífonos cuando como la radiación indicada a continuación, utilizan el teléfono móvil, lo que es indicativo pueden perjudicar el funcionamiento de los de una posible incompatibilidad entre el teléfono audífonos.
+  BASE : Retire y manténgalos (Dispositivos de comunicación y audífonos), fuera de la sala/examen antes de la compatibilidad de audífonos particulares y un teléfono móvil puede ser predicho al agregar la calificación para el examen: inmunidad de audífono a la calificación para las emisiones del teléfono móvil. • Examen médico o dental con rayos X.  (Traducción automática)  Retire y manténgalos (Dispositivos de comunicación y audífonos), fuera de la sala/examen antes de la compatibilidad de audífonos particulares y un teléfono móvil puede ser predicho al agregar la calificación para el examen: inmunidad de audífono a la calificación para las emisiones del teléfono móvil. • Examen médico o dental con rayos X.  (Traducción automática)  Retire y manténgalos (Dispositivos de comunicación y audífonos), fuera de la sala/examen antes de la compatibilidad de audífonos particulares y un teléfono móvil puede ser predicho al agregar la calificación
+  FT   : Retirar y mantenerlos Dispositivos de Comunicación y Ayudas Auditivas), fuera del examen de la habitación/área antes de la compatibilidad de determinados audífonos y un teléfono móvil puede ser predicho al agregar la calificación de la inmunidad auditiva.
+
+[99]
+  EN   : categories and system classifications are based upon the best information available but cannot guarantee that all users will be satisfied.
+  REF  : Comunicación Inalámbrica y Audífonos - American • Revisiones médicas con exámenes NMRI, National Standard Methods of Measurement of lo que genera campos magnéticos.
+  BASE : Las categorías y clasificaciones del sistema se basan en la mejor información disponible, pero no pueden garantizar que todos los usuarios estarán satisfechos.
+  FT   : Las categorías y clasificaciones del sistema se basan en la mejor información disponible, pero no pueden garantizar que todos los usuarios estarán satisfechos.
+
+[100]
+  EN   : T he underlying principle of sound enrichment is to provide supplementary noise stimulation which can help defocus your attention from your tinnitus and avoid negative reactions.
+  REF  : Enmascarador de tinnitus Las mediciones, categorías y clasificaciones de El generador de ruido del enmascarador de tinnitus sistema del rendimiento del equipo se basan en es un generador de sonido de banda ancha que la mejor información disponible, pero no puede puede que se haya activado en su audífono.
+  BASE : El principio subyacente de la enriquecimiento de sonido es proporcionar estimulación de ruido suplementaria que puede ayudar a desviar su atención de su tinnitus y evitar reacciones negativas.
+  FT   : T el principio subyacente del enriquecimiento del sonido es proporcionar estimulación del ruido suplementario que puede ayudar a desviar su atención de su tinnitus y evitar reacciones negativas.
+
+[101]
+  EN   : Sound enrichment, coupled with instructional counseling, is an established approach to managing tinnitus.
+  REF  : Proporciona un medio de enriquecimiento de El rendimiento de cada audífono puede variar sonido que se puede usar como parte de un con los teléfonos móviles individuales.
+  BASE : La enriquecimiento del sonido, combinado con el consejo educativo, es un enfoque establecido para el manejo del zumbido.
+  FT   : El enriquecimiento del sonido, acoplado con el consejo instruccional, es un enfoque establecido para el manejo del zumbido.
+
+[102]
+  EN   : A ir conduction hearing aids with the tinnitus masker are to be fitted by a hearing care professional familiar with the diagnosis and management of tinnitus.
+  REF  : Por ello, programa de gestión del tinnitus a fin de ofrecer un pruebe estos audífonos con su teléfono móvil o, si va a comprar un teléfono nuevo, pruébelo con alivio temporal del tinnitus.
+  BASE : Los audífonos de conducción de aire con el máscara de tinnitus deben ser ajustados por un profesional de cuidado auditivo familiarizado con el diagnóstico y el manejo del tinnitus.
+  FT   : Un audífono de conducción de ir con el máscara del tinnitus debe ser ajustado por un profesional de la atención auditiva familiar con el diagnóstico y manejo del tinnitus.
+
+[103]
+  EN   : use of the device and seek medical Good health practice requires that a person attention.
+  REF  : El enriquecimiento del sonido, junto con el asesoramiento instructivo, es un enfoque establecido para gestionar el tinnitus.
+  BASE : La práctica de la buena salud requiere que una persona preste atención al uso del dispositivo y busque atención médica.
+  FT   : El uso del dispositivo y la búsqueda de la práctica médica de la buena salud requiere que una persona preste atención.
+
+[104]
+  EN   : reporting tinnitus have a medical evaluation by T he volume of the tinnitus masker can be a licensed ear physician before using a sound set to a level which could lead to permanent generator.
+  REF  : Una buena práctica de salud requiere que una persona que informa que sufre de tinnitus reciba una evaluación médica de un otorrinolaringólogo colegiado antes de usar un generador de sonido.
+  BASE : Los que reportan tinnitus deben someterse a una evaluación médica por parte de un médico especialista en oído antes de usar un generador de sonido con un volumen que podría llevar a un daño permanente.
+  FT   : La tinnitus reportada tiene una evaluación médica por T el volumen de la máscara de tinnitus puede ser un médico de oído licenciado antes de utilizar un conjunto de sonido a un nivel que podría llevar a un generador permanente.
+
+[105]
+  EN   : The purpose of such an evaluation hearing damage when used for a prolonged is to ensure that medically treatable conditions, which may be causing tinnitus, are identified period of time.
+  REF  : El propósito de tal evaluación es asegurar que se identifiquen y traten afecciones médicamente tratables que pueden causar el tinnitus antes de usar un generador de sonido.
+  BASE : El propósito de una evaluación de audiología es identificar daños auditivos cuando se utilizan durante un período prolongado, para asegurar que las condiciones médicamente tratables, que pueden causar el zumbido, son identificadas.
+  FT   : El objetivo de tal evaluación es el daño auditivo cuando se utiliza para un período prolongado es garantizar que las condiciones médicamente tratadas, que pueden causar tinnitus, sean identificadas en un período de tiempo.
+
+[106]
+  EN   : ___________________________________________ This will help your hearing care professional to address your needs.
+  REF  : Según la Administración de Seguridad y Salud Ocupacional del Departamento del Trabajo de EE.
+  BASE : ___________________________________________ Esto ayudará a su profesional de atención a la audición a atender sus necesidades.
+  FT   : ___________________________________________ Esto ayudará a su profesional de atención auditiva a atender sus necesidades.
+
+====================================================================
+  METRICS
+  Base BLEU :  11.36    Base chrF :  32.86
+  FT   BLEU :   8.53    FT   chrF :  29.50
+  Δ    BLEU :  -2.83    Δ    chrF :  -3.36
+====================================================================

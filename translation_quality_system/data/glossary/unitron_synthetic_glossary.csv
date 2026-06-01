@@ -1,0 +1,124 @@
+source_term,approved_es,forbidden_es,domain
+hearing aid,audífono,"instrumento auditivo|instrumento de audición|ayuda auditiva|dispositivo auditivo",audiology
+hearing aids,audífonos,"instrumentos auditivos|instrumentos de audición|ayudas auditivas|dispositivos auditivos",audiology
+hearing instrument,audífono,"instrumento auditivo|instrumento de audición",audiology
+hearing instruments,audífonos,"instrumentos auditivos|instrumentos de audición",audiology
+hearing care professional,profesional de salud auditiva,"profesional de atención auditiva|profesional de cuidado auditivo|clínico",audiology
+hearing aid volume,volumen del audífono,volumen de la ayuda auditiva,audiology
+Tinnitus Masker,enmascarador de tinnitus,"Tinnitus Masker|ruido de mascarado",audiology
+masking noise,ruido de enmascaramiento,ruido de mascarado,audiology
+tinnitus,acúfenos,tinnitus,audiology
+fitting,adaptación,ajuste,audiology_software
+fitting software,software de adaptación,software de ajuste,audiology_software
+fitting formula,fórmula de adaptación,fórmula de ajuste,audiology_software
+First Fit,Adaptación Inicial,"First Fit|Primero Fit|Primero Ajuste",audiology_software
+Recalculate,Recalcular,Recalculate,audiology_software
+recalculation,recálculo,recalculación,audiology_software
+Quick View Pane,panel de vista rápida,"Quick View Pane|vista rápida de la ventana|instrumento de visión rápida Pane",software_ui
+sign in,iniciar sesión,firmar,software_ui
+sign out,cerrar sesión,salir,software_ui
+username,nombre de usuario,usuario,software_ui
+click,haga clic,"click|clicar",software_ui
+button,botón,bouton,software_ui
+drop-down menu,menú desplegable,"menú de descenso|caja de descenso|dropdown menu",software_ui
+dropdown menu,menú desplegable,"menú de descenso|caja de descenso|dropdown menu",software_ui
+on-screen instructions,instrucciones en pantalla,instrucciones en la pantalla,software_ui
+pop-up window,ventana emergente,"ventana de pop-up|pop-up",software_ui
+Mute / Unmute,Silenciar/activar sonido,"Mute / Unmute|Mudo / Desmudo|mudo o no mudo",software_ui
+mute,silenciar,"mute|mudo",software_ui
+unmute,activar sonido,"unmute|desmudo|inmuto|inmune|mutar",software_ui
+slider,control deslizante,"slider|deslizador",software_ui
+split volume,separar volumen,split volume,software_ui
+join volume,unir volumen,join volume,software_ui
+Reduce Noise,Reducir ruido,"Reduce Noise|reducir ruido",software_ui
+Enhance Speech,Realzar habla,"Enhance Speech|Aumentar el habla",software_ui
+Focus Mic,Enfocar micrófono,Focus Mic,software_ui
+Automatic Program,programa Automático,Programa Automático,software_ui
+Clarity,Claridad,Clarity,software_ui
+Comfort,Comodidad,"Comfort|Confort",software_ui
+Insights,Percepciones,Insights,software_ui
+feedback,comentarios,"feedback|retroalimentación",software_ui
+Bluetooth Low-Energy,Bluetooth de baja energía,Bluetooth Low-Energy,connectivity
+BT-LE,BT-LE,,connectivity
+Bluetooth,Bluetooth®,,connectivity
+Google Mobile Services,Google Mobile Services,,connectivity
+GMS,GMS,,connectivity
+Android OS,Android OS,,connectivity
+iOS,iOS,,connectivity
+TV Connector,TV Connector,,connectivity
+Remote Plus,Remote Plus,,connectivity
+Remote Control,Remote Control,control remoto,connectivity
+PartnerMic,PartnerMic,,connectivity
+Roger,Roger,,connectivity
+pairing mode,modo de emparejamiento,modo de pareja,connectivity
+paired,emparejado,"puesto en pareja|conectado con éxito",connectivity
+Bluetooth enabled,compatible con Bluetooth,"Bluetooth habilitado|Bluetooth permite",connectivity
+streaming device,dispositivo de transmisión,"dispositivo de flujo|dispositivo de streaming",connectivity
+streamed signal,señal transmitida,señal de flujo,connectivity
+battery door,portapilas,"puerta de la batería|puerta de batería|tapa de la batería",hardware
+battery doors,portapilas,puertas de las baterías,hardware
+battery,pila,batería,hardware
+batteries,pilas,baterías,hardware
+battery size,tamaño de la pila,tamaño de la batería,hardware
+low battery warning,advertencia de batería baja,"advertencia de pila baja|Low Battery|low battery",hardware
+rechargeable,recargable,"reutilizable|recargables",hardware
+indicator light,indicador luminoso,luz indicadora,hardware
+solid green,verde fijo,verde sólido,hardware
+multi-function button,botón multifunción,"botón de múltiples funciones|botón multifuncional",hardware
+push button,pulsador,botón de empuje,hardware
+earpiece,auricular,"pieza de oreja|pie de oreja|earpiece",hardware
+earpieces,acopladores acústicos,"conos para oído|earpieces",hardware
+earhook,codo,oreja,hardware
+tubing,tubo,tubería,hardware
+receiver,auricular,receptor,hardware
+receiver type,tipo de auricular,tipo receptor,hardware
+shell,carcasa,concha,hardware
+vent,ventilación,vent,hardware
+venting,ventilación,venting,hardware
+coupling,acoplamiento,coupling,hardware
+Dome,Cápsula,Dome,hardware
+SlimTip,SlimTip,,hardware
+cShell,cShell,,hardware
+FLEX:TRIAL,FLEX:TRIAL,,hardware
+Powered by Vivante,Powered by Vivante,impulsado por Vivante,hardware
+Sonova brand,marca de Sonova,Sonova brand,hardware
+Noahlink Wireless,Noahlink Wireless,,hardware
+iCube II,iCube II,,hardware
+neck loop,collar inductivo,bucle de cuello,hardware
+programming cable,cable de programación,,hardware
+programming interface,interfaz de programación,,hardware
+client,paciente,cliente,audiology_software
+Client Summary,Resumen del paciente,Síntesis del cliente,audiology_software
+Session Summary,Resumen de la sesión,Síntesis de la sesión,audiology_software
+Audiogram,audiograma,Audiograma,audiology
+audiometry,audiometría,,audiology
+thresholds,umbrales,,audiology
+RECD,RECD,,audiology
+real-ear-to-coupler difference,diferencia real del acoplador al oído,real-ear-to-coupler,audiology
+REUG,REUG,,audiology
+real-ear unaided gain,ganancia en oído real sin asistencia,ganancia real-ear sin ayuda,audiology
+age-appropriate,adecuados a la edad,"apropiados para la edad|correspondientes a la edad",audiology
+Technology Level,nivel de tecnología,nivel tecnológico,audiology_software
+workflow,flujo de trabajo,,audiology_software
+Transfer fitting,Transferir adaptación,Ajuste de transferencia,audiology_software
+Create new fitting,Crear nueva adaptación,"Crear nueva ajuste|Crear nuevos ajustes",audiology_software
+data logging,registro de datos,"datos de registro|información registrada",audiology_software
+acoustics,acústica,,audiology_software
+Custom hearing instruments,Audífonos personalizados,Instrumentos de audición personalizados,audiology_software
+IntelliVent,IntelliVent,,audiology_software
+WDRC,WDRC,,audiology_software
+NAL-NL1,NAL-NL1,,audiology_software
+NAL-NL2,NAL-NL2,,audiology_software
+DSL v5 Adult,DSL v5 Adulto,,audiology_software
+DSL v5 Pediatric,DSL v5 Pediátrico,"DSL v5 Pediatría",audiology_software
+flight mode,modo avión,modo de vuelo,safety
+switched into flight mode,cambiar al modo avión,cambiados en modo de vuelo,safety
+frequency range,rango de frecuencias,rango de frecuencia,technical
+GHz,GHz,,technical
+chlorinated water,agua clorada,,safety
+salt water,agua salada,,safety
+chemical content,contenido químico,,safety
+serial number,número de serie,número serial,regulatory
+year of manufacture,año de fabricación,,regulatory
+Medical Devices Directive,Directiva sobre productos sanitarios,Directiva de Dispositivos Médicos,regulatory
+Medical Device Regulation,Reglamento sobre productos sanitarios,Regulación sobre productos sanitarios,regulatory
